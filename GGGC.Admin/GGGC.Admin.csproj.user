@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>c:\Grupo_Guadiana_GC\ERP\Publish\Updater\GGGC\|D:\Grupo_Guadiana_GC\ERP\Publish\Updater\GGGC\|C:\Grupo_Guadiana_GC\ERP\Publish\Updater\GGGC\|\\192.168.200.5\Grupo_Guadiana_GC\ERP\Publish\Updater\GGGC\|\\192.168.200.5\Grupo_Guadiana_GC\ERP\Publish\GGGC\</PublishUrlHistory>
+    <InstallUrlHistory>https://biglerplgrupolguadianagc.blob.core.windows.net/erp/|https://gggc03542165620635216902.blob.core.windows.net/erp/|https://tmpgggc03542165620635216.blob.core.windows.net/erp/|https://gggc03542165620635216902.blob.core.windows.net/updater/|https://erpgrupoguadianagc.blob.core.windows.net/updater/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://biglerplgrupolguadianagc.blob.core.windows.net/erp/|https://gggc03542165620635216902.blob.core.windows.net/erp/|https://tmpgggc03542165620635216.blob.core.windows.net/erp/|https://gggc03542165620635216902.blob.core.windows.net/updater/|https://guadianaerp001.blob.core.windows.net/updater/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

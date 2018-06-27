@@ -1,0 +1,14 @@
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\bin\Debug\GGGC.Modules.Reports.dll
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\bin\Debug\GGGC.Modules.Reports.pdb
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.csprojResolveAssemblyReference.cache
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.Properties.Resources.resources
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.csproj.GenerateResource.Cache
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.dll
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.pdb
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\bin\Debug\GGGC.Modules.Reports.dll
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\bin\Debug\GGGC.Modules.Reports.pdb
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.csprojResolveAssemblyReference.cache
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.Properties.Resources.resources
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.csproj.GenerateResource.Cache
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.dll
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Reports\obj\Debug\GGGC.Modules.Reports.pdb

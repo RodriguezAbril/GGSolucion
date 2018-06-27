@@ -1,0 +1,9 @@
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Home\bin\Debug\GGGC.Modules.Home.dll
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Home\bin\Debug\GGGC.Modules.Home.pdb
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Home\obj\Debug\GGGC.Modules.Home.csprojResolveAssemblyReference.cache
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Home\obj\Debug\GGGC.Modules.Home.dll
+C:\GGGC\GGGC\Src\WPF\Modules\GGGC.Modules.Home\obj\Debug\GGGC.Modules.Home.pdb
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Home\bin\Debug\GGGC.Modules.Home.dll
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Home\bin\Debug\GGGC.Modules.Home.pdb
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Home\obj\Debug\GGGC.Modules.Home.dll
+C:\GGGC\Src\WPF\Modules\GGGC.Modules.Home\obj\Debug\GGGC.Modules.Home.pdb

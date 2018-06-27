@@ -1,0 +1,14 @@
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\IgOutlook.Infrastructure.dll
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\IgOutlook.Infrastructure.pdb
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.Prism.xml
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\obj\Debug\IgOutlook.Infrastructure.csprojResolveAssemblyReference.cache
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\obj\Debug\IgOutlook.Infrastructure.Properties.Resources.resources
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\obj\Debug\IgOutlook.Infrastructure.csproj.GenerateResource.Cache
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\obj\Debug\IgOutlook.Infrastructure.dll
+C:\igoutlook-part-7_2\IgOutlookSolution\Src\Wpf\IgOutlook.Infrastructure\obj\Debug\IgOutlook.Infrastructure.pdb
