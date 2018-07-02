@@ -519,7 +519,7 @@ namespace GGGC.Admin.AZ.Compr.Views
             SetCell(rowIndex, 0, item.Codigo.ToString());
             SetCell(rowIndex, 1, item.Descripcion.ToString());
             SetCell(rowIndex, 2, item.Cantidad.ToString()) ;
-            SetCell(rowIndex, 3, "$" + item.Iva.ToString("#,###.00", CultureInfo.InvariantCulture));
+            SetCell(rowIndex, 3, item.Cantidad.ToString());
             SetCell(rowIndex, 4, "$" + item.Total.ToString("#,###.00", CultureInfo.InvariantCulture));
             SetCell(rowIndex, 5, "$" + item.Rate.ToString("#,###.00", CultureInfo.InvariantCulture));
             SetCell(rowIndex, 6, "$" + item.Iva.ToString("#,###.00", CultureInfo.InvariantCulture));
@@ -558,7 +558,7 @@ namespace GGGC.Admin.AZ.Compr.Views
         /// <param name="value"></param>
         private void SetCell(int rowIndex, int columnIndex, string value)
         {
-            if (columnIndex == 2 || columnIndex == 3 || columnIndex == 4 || columnIndex == 5 || columnIndex == 6 || columnIndex == 7 || columnIndex == 8)
+            if ( columnIndex == 4 || columnIndex == 5 || columnIndex == 6 || columnIndex == 7 || columnIndex == 8)
             {
                 Grid amountGrid = new Grid();
                 Grid.SetColumn(amountGrid, columnIndex);
@@ -575,7 +575,7 @@ namespace GGGC.Admin.AZ.Compr.Views
                 TextBlock textBlockDollor = null;
                 textBlockDollor = new TextBlock();
                 textBlockDollor.Text = "$";
-                textBlockDollor.FontSize = 18;
+                textBlockDollor.FontSize = 14;
                 textBlockDollor.FontFamily = new FontFamily("Segoe UI");
                 textBlockDollor.Foreground = new SolidColorBrush(Color.FromArgb(255, 63, 63, 63));
                 //textBlockDollor.Foreground = new SolidColorBrush(Colors.Black);
@@ -592,7 +592,7 @@ namespace GGGC.Admin.AZ.Compr.Views
                 TextBlock textBlock = null;
                 textBlock = new TextBlock();
                 textBlock.Text = value.Trim('$');
-                textBlock.FontSize = 18;
+                textBlock.FontSize = 14;
                 textBlock.FontFamily = new FontFamily("Segoe UI");
                 textBlock.Foreground = new SolidColorBrush(Color.FromArgb(255, 63, 63, 63));
                 //HorizontalAlignment="Center" FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F"
@@ -620,7 +620,7 @@ namespace GGGC.Admin.AZ.Compr.Views
                 TextBlock textBlock = null;
                 textBlock = new TextBlock();
                 textBlock.Text = value.Trim('$');
-                textBlock.FontSize = 18;
+                textBlock.FontSize = 14;
                 textBlock.FontFamily = new FontFamily("Segoe UI");
                 textBlock.Foreground = new SolidColorBrush(Color.FromArgb(255, 63, 63, 63));
                 //HorizontalAlignment="Center" FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F"

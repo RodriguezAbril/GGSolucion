@@ -42,10 +42,11 @@ namespace GGGC.Admin.AZ.Compr.Views
         public ProductoDialog(InvoiceItem newItem, string title)
         {
             InitializeComponent();
+            dataGrid1.ShowGroupPanel = false;
             llenargrid();
             if (newItem == null)
             {
-                Cantidad.Value = 1;
+                //Cantidad.Value = GetQuantityAsInt();
                 rate.Value = 0.00;
                 //prueba usando datacontext
                 //InvoiceItem newItem;
@@ -54,22 +55,36 @@ namespace GGGC.Admin.AZ.Compr.Views
 
             item.Text = newItem.Codigo;
             item_Copy.Text = newItem.Descripcion;
-            Cantidad.Value = 66.66;
+            // newItem.Cantidad = GetQuantityAsInt();
+            //newItem.Cantidad = 2;
             rate.Value = 80.00;
             m_invoiceItem = newItem;
+            Cantidad.Value = newItem.Cantidad;
+
+            //Cantidad.Value = 2;
+           // rate.Value = 80.00;
+          
+
+            if (newItem.Cantidad == 0)
+            {
+                newItem.Cantidad= GetQuantityAsInt();
+                this.Cantidad.Value = 1;
+                CalculateTax();
+                UpdateTotalAmount();
+            }
             //newItem.Codigo = item.Text;
             // newItem.Descripcion = item_Copy.Text;
             // newItem.Cantidad = (double)Cantidad.Value;
             // newItem.Rate = (double)rate.Value;
             // m_invoiceItem = newItem;
-            // this.DataContext = m_invoiceItem;
+            this.DataContext = m_invoiceItem;
             //// llenargrid();
 
 
         }
 
         DataTable dtbl = new DataTable();
-
+       
 
         private void llenargrid()
         {
@@ -109,15 +124,36 @@ namespace GGGC.Admin.AZ.Compr.Views
 
         private void updtButton_Click(object sender, RoutedEventArgs e)
         {
-            
-             FieldsUpdateEventArgs args = new FieldsUpdateEventArgs();
-            args.UpdatedFields = m_invoiceItem;
 
-            if (UpdateRequested != null)
+            if (string.IsNullOrWhiteSpace(item_Copy.Text))
             {
-                UpdateRequested(this, args);
+                System.Windows.MessageBox.Show("Debe de seleccionar un articulo, tap twice ", "Error al actualizar");
+
+
             }
+            else {
+                FieldsUpdateEventArgs args = new FieldsUpdateEventArgs();
+                args.UpdatedFields = m_invoiceItem;
+
+                if (UpdateRequested != null)
+                {
+                    UpdateRequested(this, args);
+                }
+            }
+            
         }
+
+        private void UpdateTotalAmount()
+        {
+
+            int quantityValue = GetQuantityAsInt();
+            double rateValue = (double)rate.Value;
+            double calculatedTax = m_invoiceItem.Iva;
+            double taxedAmount = (quantityValue * rateValue) + calculatedTax;
+            m_invoiceItem.Rate = taxedAmount;
+            this.Total.Content = "$"+ taxedAmount.ToString() ;
+        }
+
 
         private void radGridView1_SelectionChanged(object sender, EventArgs e)
         {
@@ -131,13 +167,15 @@ namespace GGGC.Admin.AZ.Compr.Views
                 //newItem.Codigo= row_selected["Codigo"].ToString();
                 m_invoiceItem.Codigo = row_selected["Codigo"].ToString();
                 m_invoiceItem.Descripcion = row_selected["Llanta"].ToString();
+                //m_invoiceItem.Cantidad =(double)Cantidad.Value;
                 // m_invoiceItem.Cantidad = (double)Cantidad.Value;
+                
                 item.Text = row_selected["Codigo"].ToString();
                 item_Copy.Text = row_selected["Llanta"].ToString();
             }
 
             rate.Value = 3080;
-            rate_Iva.Text = "15";
+            //rate_Iva.Text = "15";
         }
 
         private void tbAssembly_TextChanged(object sender, RoutedEventArgs e)
@@ -152,41 +190,113 @@ namespace GGGC.Admin.AZ.Compr.Views
             DV.RowFilter = string.Format("NombreCompleto LIKE '%{0}%'", item.Text);
             dataGrid1.ItemsSource = DV;
 
+            if (string.IsNullOrWhiteSpace(item.Text))
+            {
+                item_Copy.Text = "";
+                radComboNivel.ItemsSource = null;
+                precioCodigo.Text = "";
+            }
+
         }
 
 
-        private void quantity_ValueChanged(object sender, Telerik.Windows.Controls.RadRangeBaseValueChangedEventArgs e)
+        private void quantity_ValueChanged(object sender, DependencyPropertyChangedEventArgs e)
         {
+
+            
             if (onInit)
                 return;
-            if (Cantidad != null)
+            if (rate != null)
             {
-                double value = (double)Cantidad.Value;
+               
+                double value = (double)rate.Value;
                 {
+                    int quantityValue = GetQuantityAsInt();
+                    CalculateTax();
+                    UpdateTotalAmount();
                     //m_invoiceItem.Cantidad =(double)Cantidad.Value;
                     //newItem.Cantidad = (double)Cantidad.Value;
                     //rate.BorderBrush = new SolidColorBrush(Color.FromArgb(255, 0, 64, 81));
-                    CalculateTax();
-                   
+                    //  CalculateTax();
+
                 }
             }
         }
 
+        public int GetQuantityAsInt()
+        {
+            return (Cantidad.Value is double) ? (int)Cantidad.Value : (int)(double)Cantidad.Value;
+        }
         private void CalculateTax()
         {
+            m_invoiceItem.Cantidad = GetQuantityAsInt();
             double currentRate = (double)Cantidad.Value;
-            
 
-            
-                double calculatedTax = 0.0;
+            int currentQuantity = GetQuantityAsInt();
+
+            double calculatedTax = 0.0;
                 calculatedTax = (currentRate * 10);
+            Total.Content = "$";
             Total.Content = "$" + calculatedTax.ToString();
             //m_invoiceItem.Cantidad = (double)Cantidad.Value;
 
 
         }
 
+        private void rdvMouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
 
+            var cour = dataGrid1.SelectedItem;
+
+            item.Text = ((System.Data.DataRowView)cour).Row.ItemArray[0].ToString();
+            item_Copy.Text = ((System.Data.DataRowView)cour).Row.ItemArray[6].ToString();
+            m_invoiceItem.Codigo = ((System.Data.DataRowView)cour).Row.ItemArray[0].ToString();
+            m_invoiceItem.Descripcion = ((System.Data.DataRowView)cour).Row.ItemArray[6].ToString();
+           // m_invoiceItem.Cantidad = (double)Cantidad.Value;
+           rate.Value = 3080;
+            string strigCodigo = ((System.Data.DataRowView)cour).Row.ItemArray[0].ToString();
+
+          llenarcombobox (strigCodigo);
+        }
+
+        private void llenarcombobox(string codigo)
+        {
+
+            // xaxaxa var hat = codigo;
+
+            string conect = "SERVER = gggctserver.database.windows.net; DATABASE = rdbms_GGGC_Public_TESTING; USER ID = abril; PASSWORD = gggc.2017";
+            SqlConnection con = new SqlConnection(conect);
+            con.Open();
+            string cmd = " SELECT Codigo_De_Articulo,Nivel_De_Precios,Precio FROM Precios where Codigo_De_Articulo = '"+codigo+"' ";
+            try
+            {
+                SqlDataAdapter sda = new SqlDataAdapter(cmd, conect);
+                DataSet dsPubs = new DataSet("Pubs");
+                sda.Fill(dsPubs, "Precios");
+                DataTable dtblg = new DataTable();
+                dtblg = dsPubs.Tables["Precios"];
+                radComboNivel.ItemsSource = dsPubs.Tables["Precios"].DefaultView;
+               
+                //dataGrid1.ItemsSource = dsPubs.Tables["Precios"].DefaultView;
+                //dataGrid1.Columns[0].Visibility = false;
+                //dataGrid1.Tables["LLantas"].Columns[0].ColumnMapping = MappingType.Hidden;
+                con.Close();
+
+            }
+            catch (InvalidCastException e)
+            {
+                MessageBox.Show("No se pudo llenar los campos" + e.ToString());
+            }
+        }
+
+        private void nivel_SelectioChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var objPrecio = radComboNivel.SelectedItem;
+            if (objPrecio != null)
+            { precioCodigo.Text = ((System.Data.DataRowView)objPrecio).Row.ItemArray[2].ToString(); }
+            else { precioCodigo.Text = ""; }
+           
+        }
 
         private void texboxx_Loaded(object sender, RoutedEventArgs e)
         {
@@ -210,6 +320,11 @@ namespace GGGC.Admin.AZ.Compr.Views
         public void InitializeFocus()
         {
             this.item.Focus();
+        }
+
+        private void comboBox_Copy_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
 
         //public Dialog(InvoiceItem newItem, string title, int productIndex)

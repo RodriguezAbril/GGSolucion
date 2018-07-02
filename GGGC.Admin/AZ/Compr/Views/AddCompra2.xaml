@@ -165,25 +165,25 @@
 
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="75*"   />
-                                    <ColumnDefinition Width="131*"/>
-                                    <ColumnDefinition Width="52*"/>
-                                    <ColumnDefinition Width="72*"/>
-                                    <ColumnDefinition Width="108*"/>
-                                    <ColumnDefinition Width="65*"/>
-                                    <ColumnDefinition Width="82*"/>
-                                    <ColumnDefinition Width="106*"/>
-                                    <ColumnDefinition Width="116*"/>
+                                    <ColumnDefinition Width="205*"/>
+                                    <ColumnDefinition Width="50*"/>
+                                    <ColumnDefinition Width="59*"/>
+                                    <ColumnDefinition Width="97*"/>
+                                    <ColumnDefinition Width="66*"/>
+                                    <ColumnDefinition Width="76*"/>
+                                    <ColumnDefinition Width="95*"/>
+                                    <ColumnDefinition Width="84*"/>
 
                                 </Grid.ColumnDefinitions>
                                 <TextBlock   x:Name="ConceptoE" Text="Codigo"  TextAlignment="Left"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="20" Margin="2,10,17,8" Padding="5,0,0,0" />
                                 <TextBlock Grid.Row="0" Grid.Column="1" x:Name="Descripcion" Text="Descripcion"  TextAlignment="Left"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="2,10,53,10" />
                                 <TextBlock Grid.Row="0" Grid.Column="2" x:Name="UM" Text="U/M"  TextAlignment="Center" VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="0,10" />
-                                <TextBlock Grid.Row="0" Grid.Column="2" x:Name="Cantidad" Text="Cantidad"  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="51,10,1,10" Grid.ColumnSpan="2" />
+                                <TextBlock Grid.Row="0" Grid.Column="3" x:Name="Cantidad" Text="Cantidad"  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="0,10,1,10" />
                                 <TextBlock Grid.Row="0" Grid.Column="4" x:Name="PC" Text="P. Unit Sin Desc."  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="5,10" />
-                                <TextBlock Grid.Row="0" Grid.Column="5" x:Name="desc" Text="%Desc."  TextAlignment="Center"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="17,10,3,10" />
+                                <TextBlock Grid.Row="0" Grid.Column="5" x:Name="desc" Text="%Desc."  TextAlignment="Center"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="14,10,6,10" />
                                 <TextBlock Grid.Row="0" Grid.Column="6" x:Name="desct" Text="%Desc.Total"  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="0,10" />
-                                <TextBlock Grid.Row="0" Grid.Column="7" x:Name="pdesc" Text="P.Unit.C.Desc."  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="10,10,0,10" />
-                                <TextBlock Grid.Row="0" Grid.Column="8" x:Name="pxdesc" Text="P.Ext.C.Desc."  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="10,10,29,10" />
+                                <TextBlock Grid.Row="0" Grid.Column="7" x:Name="pdesc" Text="P.Unit.C.Desc."  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="5,10" />
+                                <TextBlock Grid.Row="0" Grid.Column="8" x:Name="pxdesc" Text="P.Ext.C.Desc."  TextAlignment="Right"  VerticalAlignment="Center"  FontWeight="Normal" FontFamily="Segoe UI" Foreground="#3F3F3F" FontSize="14" Height="18" Margin="1,10,2,10" />
 
                                 <!--<StackPanel Background="#B3D1E8" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="2">
                                     <Grid Height="40">
@@ -214,15 +214,15 @@
                                     </Grid.RowDefinitions>
                                     <Grid.ColumnDefinitions >
 
-                                        <ColumnDefinition Width="78*" />
-                                        <ColumnDefinition Width="125*"/>
-                                        <ColumnDefinition Width="51*"/>
-                                        <ColumnDefinition Width="81*" />
-                                        <ColumnDefinition Width="106*"/>
-                                        <ColumnDefinition Width="61*"/>
-                                        <ColumnDefinition Width="90*"/>
-                                        <ColumnDefinition Width="103*"/>
+                                        <ColumnDefinition Width="67*" />
+                                        <ColumnDefinition Width="230*"/>
+                                        <ColumnDefinition Width="44*"/>
+                                        <ColumnDefinition Width="43*"  />
                                         <ColumnDefinition Width="98*"/>
+                                        <ColumnDefinition Width="69*"/>
+                                        <ColumnDefinition Width="85*"/>
+                                        <ColumnDefinition Width="86*"/>
+                                        <ColumnDefinition Width="71*"/>
 
                                     </Grid.ColumnDefinitions>
                                     <Rectangle Grid.Row="0" Height="1"  StrokeThickness="0.75" VerticalAlignment="Bottom" Grid.ColumnSpan="9"  StrokeDashArray="4,4" Stroke="#FFCECECE"></Rectangle>
