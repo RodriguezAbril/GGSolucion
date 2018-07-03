@@ -125,9 +125,15 @@ namespace GGGC.Admin.AZ.Compr.Views
         private void updtButton_Click(object sender, RoutedEventArgs e)
         {
 
-            if (string.IsNullOrWhiteSpace(item_Copy.Text))
+            if (string.IsNullOrWhiteSpace(item_Copy.Text) || string.IsNullOrWhiteSpace(radComboNivel.Text))
             {
-                System.Windows.MessageBox.Show("Debe de seleccionar un articulo, tap twice ", "Error al actualizar");
+
+                if (string.IsNullOrWhiteSpace(item_Copy.Text))
+                {  System.Windows.MessageBox.Show("Debe de seleccionar un articulo, tap twice ", "Error al actualizar"); }
+
+
+                if (string.IsNullOrWhiteSpace(radComboNivel.Text))
+                {   System.Windows.MessageBox.Show("Debe de seleccionar un nivel del articulo", "Error al actualizar"); }
 
 
             }

@@ -173,7 +173,7 @@
         <local:AddCompra HorizontalAlignment="Left" Height="100" Margin="222,10,0,0" Grid.RowSpan="3" VerticalAlignment="Top" Width="100"/>
         <Label FontSize="15" TabIndex="0" x:Name="Total"  BorderBrush="#C1C1C1" Height="28" VerticalAlignment="Center" Margin="514,2,12,2"  Grid.Row="4" />
         <telerik:RadComboBox x:Name="radComboNivel" FontSize="16" SelectionChanged="nivel_SelectioChanged" HorizontalAlignment="Left" DisplayMemberPath="Nivel_De_Precios" Height="25" Margin="63,5,0,0" Grid.Row="4" VerticalAlignment="Top" Width="95"/>
-        <TextBox x:Name="precioCodigo" HorizontalAlignment="Left" IsReadOnly="True" Height="25" Margin="172,5,0,0" Grid.Row="4" TextWrapping="Wrap"  VerticalAlignment="Top" Width="107"/>
+        <TextBox x:Name="precioCodigo" HorizontalAlignment="Left" IsReadOnly="True" Height="25" Margin="172,5,0,0" Grid.Row="4" TextWrapping="Wrap"  FontSize="15" VerticalAlignment="Top" Width="107"/>
 
     </Grid>
 </Window>
