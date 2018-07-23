@@ -26,6 +26,7 @@ namespace GGGC.Admin.AZ.Compr.Views
         #region Fields
         const int m_columnCount = 9;
         private double m_totalDue;
+        private double m_totalCant;
         private IList<InvoiceItem> m_items;
         int m_currentRowIndex = 0;
         int m_selectedIndex = -1;
@@ -51,6 +52,14 @@ namespace GGGC.Admin.AZ.Compr.Views
             }
         }
 
+        public double TotalCant
+        {
+            get
+            {
+                return m_totalCant;
+            }
+        }
+
         #endregion
 
         #region Constructor
@@ -70,10 +79,15 @@ namespace GGGC.Admin.AZ.Compr.Views
         {
 
             m_productList = new ProductList();
+
             m_items = new List<InvoiceItem>();
+
             m_border = new Border();
+
             m_billInfo = new BillingInformation();
 
+            pickerFactura.SelectedDate = System.DateTime.Now;
+            pickermercancia.SelectedDate = System.DateTime.Now;
             ////Load price list from XML document
             //m_productList.LoadFromXml();
 
@@ -193,7 +207,9 @@ namespace GGGC.Admin.AZ.Compr.Views
             ProductoDialog win2 = new ProductoDialog();
             win2.Show();
             //window2 win2 = new window2();
+            //la progrmacion me ha hecho aprend.
             //win2.Show();
+
         }
         /// <summary>
         /// 
@@ -530,9 +546,11 @@ namespace GGGC.Admin.AZ.Compr.Views
             //StrokeDashArray="4,4" Stroke="#FFCECECE"></Rectangle>
 
             m_totalDue += Convert.ToDouble(item.Total);
+            m_totalCant += Convert.ToDouble(item.Cantidad);
             m_currentRowIndex++;
             m_selectedIndex = m_items.Count;
             UpdateTotal();
+            UpdateCantidad();
 
         }
         private void DrawBorder(int rowIndex)
@@ -672,6 +690,7 @@ namespace GGGC.Admin.AZ.Compr.Views
         private void UpdateGrid()
         {
             m_totalDue = 0;
+            m_totalCant = 0;
             m_currentRowIndex = 0;
             InvoiceGrid.Children.Clear();
             //InvoiceGrid.RowDefinitions.RemoveAt(InvoiceGrid.RowDefinitions.Count - 1);
@@ -682,6 +701,7 @@ namespace GGGC.Admin.AZ.Compr.Views
                 AddItem(item, true);
             }
             UpdateTotal();
+            UpdateCantidad();
         }
         /// <summary>
         /// 
@@ -689,6 +709,12 @@ namespace GGGC.Admin.AZ.Compr.Views
         void UpdateTotal()
         {
             this.TotalAmount.Text = "$" + TotalDue.ToString("#,###.00", CultureInfo.InvariantCulture);
+        }
+
+
+        void UpdateCantidad()
+        {
+            this.TotalCantidad.Text =  TotalCant.ToString();
         }
 
 

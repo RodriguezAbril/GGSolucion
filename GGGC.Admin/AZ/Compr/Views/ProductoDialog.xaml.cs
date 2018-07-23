@@ -44,6 +44,7 @@ namespace GGGC.Admin.AZ.Compr.Views
             InitializeComponent();
             dataGrid1.ShowGroupPanel = false;
             llenargrid();
+            
             if (newItem == null)
             {
                 //Cantidad.Value = GetQuantityAsInt();
@@ -55,8 +56,10 @@ namespace GGGC.Admin.AZ.Compr.Views
 
             item.Text = newItem.Codigo;
             item_Copy.Text = newItem.Descripcion;
+            //aqui debe de ir a buscar el precio del codigo que trae de regreso
             // newItem.Cantidad = GetQuantityAsInt();
             //newItem.Cantidad = 2;
+            llenarcombobox(item.Text);
             rate.Value = 80.00;
             m_invoiceItem = newItem;
             Cantidad.Value = newItem.Cantidad;
@@ -73,6 +76,7 @@ namespace GGGC.Admin.AZ.Compr.Views
                 UpdateTotalAmount();
             }
             //newItem.Codigo = item.Text;
+            //
             // newItem.Descripcion = item_Copy.Text;
             // newItem.Cantidad = (double)Cantidad.Value;
             // newItem.Rate = (double)rate.Value;
@@ -95,14 +99,22 @@ namespace GGGC.Admin.AZ.Compr.Views
             try
             {
                 SqlDataAdapter sda = new SqlDataAdapter(cmd, conect);
+
                 DataSet dsPubs = new DataSet("Pubs");
+
                 sda.Fill(dsPubs, "LLantas");
-               
+                
                 dtbl = dsPubs.Tables["LLantas"];
 
+                
+                
+
+                
+                
+
                 dataGrid1.ItemsSource = dsPubs.Tables["LLantas"].DefaultView;
-                //dataGrid1.Columns[0].Visibility = false;
-                //dataGrid1.Tables["LLantas"].Columns[0].ColumnMapping = MappingType.Hidden;
+
+
                 con.Close();
 
             }
@@ -116,7 +128,9 @@ namespace GGGC.Admin.AZ.Compr.Views
         private void Cerrar(object sender, RoutedEventArgs e)
         {
             if (CloseRequested != null)
+
                 CloseRequested(this, EventArgs.Empty);
+
             // este esta bien this.Close();
 
         }

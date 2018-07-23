@@ -769,3 +769,15 @@ C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CopyComple
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.exe
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.pdb
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\bin\Debug\GGGC.Client.Entities.dll
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.baml

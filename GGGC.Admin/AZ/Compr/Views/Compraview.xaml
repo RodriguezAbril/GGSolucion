@@ -44,6 +44,7 @@
                     <tabData:AddCompra2/>
                 </TabItem>
 
+                
                 <TabItem Header="Consultar Compras" >
                     <tabData:AddCompra2/>
                 </TabItem>

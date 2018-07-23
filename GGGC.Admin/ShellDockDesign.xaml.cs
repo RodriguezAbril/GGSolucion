@@ -449,6 +449,22 @@ namespace GGGC.Admin
                     }
                     break;
 
+                case "0117":
+                    UserControl uc0117 = null;
+                    if (userControls.ContainsKey("0117"))
+                    {
+                        userControls.Remove("0117");
+                        uc0117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Ordenes.Views.OrdenV iew", type.Namespace));
+                        userControls.Add("Ordenes", uc0117);
+                    }
+                    else
+                    {
+                        uc0117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Ordenes.Views.OrdenView", type.Namespace));
+                        userControls.Add("0117", uc0117);
+                        AddDetail(uc0117, "Ordenes");
+                    }
+                    break;
+
 
                 case "951":
                     UserControl uc_951 = null;

@@ -9,7 +9,7 @@ namespace GGGC.Admin.AZ.Compr.Views
 {
    public class ArticulosViewModel
     {
-        Data source = new Data();
+         Data source = new Data();
         private ObservableCollection<Articulo> articulosList = new ObservableCollection<Articulo>();
         public ObservableCollection<Articulo> ArticulosList
         {

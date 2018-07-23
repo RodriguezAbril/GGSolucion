@@ -452,6 +452,29 @@
       <DependentUpon>QueryView.xaml</DependentUpon>
     </Compile>
     <Compile Include="AZ\Ncr\Views\RadGridViewSampleData.cs" />
+    <Compile Include="AZ\Ordenes\Views\AddOrden.xaml.cs">
+      <DependentUpon>AddOrden.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Ordenes\Views\Articulo.cs" />
+    <Compile Include="AZ\Ordenes\Views\Cliente.xaml.cs">
+      <DependentUpon>Cliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Ordenes\Views\Data.cs" />
+    <Compile Include="AZ\Ordenes\Views\GlobalId.cs" />
+    <Compile Include="AZ\Ordenes\Views\Inventariovehiculo.xaml.cs">
+      <DependentUpon>Inventariovehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Ordenes\Views\OrdenDialog.xaml.cs">
+      <DependentUpon>OrdenDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Ordenes\Views\OrdenesViewModel.cs" />
+    <Compile Include="AZ\Ordenes\Views\OrdenItem.cs" />
+    <Compile Include="AZ\Ordenes\Views\OrdenView.xaml.cs">
+      <DependentUpon>OrdenView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Ordenes\Views\Pendientes.xaml.cs">
+      <DependentUpon>Pendientes.xaml</DependentUpon>
+    </Compile>
     <Compile Include="BooleanOrConverter.cs" />
     <Compile Include="Controls\ColorPickerDataFormDataField.cs" />
     <Compile Include="Controls\ERPDataForm.cs" />
@@ -888,6 +911,30 @@
     <Page Include="AZ\Ncr\Views\Style\Style.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\AddOrden.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\Cliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\Inventariovehiculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\OrdenDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\OrdenView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Views\Pendientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ERP\Catalogs\Products\Classes\Llantas\Views\MainView.xaml">
       <Generator>MSBuild:Compile</Generator>

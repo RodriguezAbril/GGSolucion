@@ -540,6 +540,11 @@ namespace GGGC.Admin.Menus
                     BusinessItem mnuGG_Tablero = new BusinessItem(null) { Name = "Tablero", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };
                     this.Add(mnuGG_Tablero);
 
+                    BusinessItem mnuGG_Orden = new BusinessItem(null) { Name = "Facturacion", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };
+                    this.Add(mnuGG_Orden);
+
+                    BusinessItem mnuGG_Modules_Nivel1_1 = new BusinessItem(mnuGG) { Name = "OrdenPatio", Tag = "0117", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
+                    mnuGG_Orden.Items.Add(mnuGG_Modules_Nivel1_1);
 
                     //Root
                     BusinessItem mnuGG_Administracion = new BusinessItem(null) { Name = "Administración", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };
