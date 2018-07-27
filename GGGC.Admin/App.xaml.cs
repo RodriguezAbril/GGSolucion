@@ -22,6 +22,8 @@ namespace GGGC.Admin
 
         private const string LogFilename = "erp.log";
 
+        clsGlobalcs globalgato = new clsGlobalcs();
+
         public App()
         {
             this.Startup += this.OnApplicationStartup;
@@ -30,6 +32,8 @@ namespace GGGC.Admin
             this.DispatcherUnhandledException += this.OnApplicationDispatcherUnhandledException;
 
             InitializeComponent();
+
+
         }
 
         string exeFolder = System.Reflection.Assembly.GetExecutingAssembly().Location;

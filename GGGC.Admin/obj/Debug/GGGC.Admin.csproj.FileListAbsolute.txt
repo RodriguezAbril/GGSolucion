@@ -781,3 +781,6 @@ C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.g.cs
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.baml

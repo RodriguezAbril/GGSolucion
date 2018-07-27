@@ -249,6 +249,7 @@
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.ServiceModel" />
@@ -455,6 +456,7 @@
     <Compile Include="AZ\Ordenes\Views\AddOrden.xaml.cs">
       <DependentUpon>AddOrden.xaml</DependentUpon>
     </Compile>
+    <Compile Include="AZ\Ordenes\Views\ApiServices.cs" />
     <Compile Include="AZ\Ordenes\Views\Articulo.cs" />
     <Compile Include="AZ\Ordenes\Views\Cliente.xaml.cs">
       <DependentUpon>Cliente.xaml</DependentUpon>
@@ -476,6 +478,7 @@
       <DependentUpon>Pendientes.xaml</DependentUpon>
     </Compile>
     <Compile Include="BooleanOrConverter.cs" />
+    <Compile Include="clsGlobalcs.cs" />
     <Compile Include="Controls\ColorPickerDataFormDataField.cs" />
     <Compile Include="Controls\ERPDataForm.cs" />
     <Compile Include="Controls\NumericUpDownDataFormDataField.cs" />
@@ -911,6 +914,18 @@
     <Page Include="AZ\Ncr\Views\Style\Style.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.Primary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Ordenes\Themes\MaterialDesignTheme.Slider.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="AZ\Ordenes\Views\AddOrden.xaml">
       <SubType>Designer</SubType>
@@ -1524,6 +1539,7 @@
     <Folder Include="App\Erp\Modulos\Cxc\Ncr\Views\" />
     <Folder Include="App\Local\Data\erp\sb\json\" />
     <Folder Include="App\Logs\" />
+    <Folder Include="AZ\Compr\Themes\" />
     <Folder Include="ERP\Catalogs\Products\Classes\Llantas\Rines\ViewModels\" />
     <Folder Include="ERP\Catalogs\Products\Classes\Llantas\Rines\Views\" />
     <Folder Include="ERP\Mobile\Ajustes\" />

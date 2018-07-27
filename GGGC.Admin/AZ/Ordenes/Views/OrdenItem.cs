@@ -9,7 +9,7 @@ namespace GGGC.Admin.AZ.Ordenes.Views
 {
    public class OrdenItem : INotifyPropertyChanged
     {
-        private string _id;
+        private string _Numero_De_Documento;
         private string _codigo;
         private string _descripcion;
         private string _marca;
@@ -17,20 +17,21 @@ namespace GGGC.Admin.AZ.Ordenes.Views
         private double _cantidad;
         private double _rate;
         private double _iva;
+        private int _renglon;
         private string _nivel;
         private double _total;
         public event PropertyChangedEventHandler PropertyChanged;
 
 
-        public string Id
+        public string Numero_De_Documento
         {
             get
             {
-                return _id;
+                return _Numero_De_Documento;
             }
             set
             {
-                _id = value;
+                _Numero_De_Documento = value;
             }
         }
 
@@ -114,6 +115,18 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             {
                 _iva = value;
                 UpdateTotalAmount();
+            }
+        }
+        public int Renglon
+        {
+            get
+            {
+                return _renglon;
+            }
+            set
+            {
+                _renglon = value;
+                
             }
         }
         public double Total

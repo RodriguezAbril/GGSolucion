@@ -1036,6 +1036,8 @@ namespace GGGC.Admin
 
         public static byte bytSUCURSAL = 0;
         public static byte bytEMPRESA = 0;
+
+       // public int chkgato = 0;
         //public static int MyFunction()
         //{
         //    return 22;

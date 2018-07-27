@@ -7,6 +7,17 @@
              xmlns:local="clr-namespace:GGGC.Admin.AZ.Ordenes.Views"
              mc:Ignorable="d" 
             d:DesignHeight="600" d:DesignWidth="806.667">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- note you only need bring in these extra resource dictionaries when using non-default styles, so only bring them into your controls where the default style is not what you want -->
+                <ResourceDictionary Source="/GGGC.Admin;component/AZ/Ordenes/Themes/MaterialDesignTheme.Slider.xaml" />
+                <ResourceDictionary Source="/GGGC.Admin;component/AZ/Ordenes/Themes/MaterialDesignColor.DeepPurple.xaml" />
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
     <Grid Background="White" >
         <Grid.RowDefinitions>
             <RowDefinition Height="11*" />
@@ -29,13 +40,14 @@
                     <ColumnDefinition />
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <Label Content="ACCESORIOS" VerticalContentAlignment="Center"  FontWeight="Bold" Grid.Column="0" Grid.Row="0" Margin="5,5,5,5"/>
-                <CheckBox Grid.Column="0" Grid.Row="1"  Margin="5,5,5,5" Content="GATO"/>
-                <CheckBox Grid.Column="0" Grid.Row="2"  Margin="5,5,5,5" Content="MANERAL DEL GATO"/>
-                <CheckBox Grid.Column="0" Grid.Row="3"  Margin="5,5,5,5" Content="LLAVE DE RUEDA"/>
-                <CheckBox Grid.Column="1" Grid.Row="1"  Margin="5,5,5,5" Content="TAPON DE ACEITE"/>
-                <CheckBox Grid.Column="1" Grid.Row="2"  Margin="5,5,5,5" Content="TAPON DE RADIADOR"/>
-                <CheckBox Grid.Column="1" Grid.Row="3"  Margin="5,5,5,5" Content="VARILLA DE ACEITE"/>
+                <Label Content="ACCESORIOS" VerticalContentAlignment="Bottom"  FontWeight="Bold" Grid.Column="0" Grid.Row="0" Margin="5,5,5,5"/>
+                <Label Content="GASOLINA" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Right"  FontWeight="Bold" Grid.Column="1" Grid.Row="0" />
+                <CheckBox x:Name="chkgato" Grid.Column="0" Grid.Row="1"  Margin="5,5,5,5" Content="GATO"/>
+                <CheckBox x:Name="chkmaneral" Grid.Column="0" Grid.Row="2"  Margin="5,5,5,5" Content="MANERAL DEL GATO"/>
+                <CheckBox x:Name="chkllave" Grid.Column="0" Grid.Row="3"  Margin="5,5,5,5" Content="LLAVE DE RUEDA"/>
+                <CheckBox x:Name="chktaponaceite" Grid.Column="1" Grid.Row="1"  Margin="5,5,5,5" Content="TAPON DE ACEITE"/>
+                <CheckBox x:Name="chktaponradiador"  Grid.Column="1" Grid.Row="2"  Margin="5,5,5,5" Content="TAPON DE RADIADOR"/>
+                <CheckBox x:Name="chkvarilla" Grid.Column="1" Grid.Row="3"  Margin="5,5,5,5" Content="VARILLA DE ACEITE"/>
             </Grid>
 
 
@@ -51,17 +63,20 @@
                     <ColumnDefinition />
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
-                <Label Content="GASOLINA" VerticalContentAlignment="Center"  FontWeight="Bold" Grid.Column="0" Grid.Row="0" Margin="5,5,5,5"/>
-                <RadioButton  Grid.Column="0" Grid.Row="0" Content="1/2"  Margin="160,10,174,10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
-                <CheckBox Grid.Column="0" Grid.Row="1"  Margin="5,5,5,5" Content="ESTUCHE DE HERRAMIENTAS"/>
-                <CheckBox Grid.Column="0" Grid.Row="2"  Margin="5,5,5,5" Content="TRIANGULO DE SEGURIDAD"/>
-                <CheckBox Grid.Column="0" Grid.Row="3"  Margin="5,5,5,5" Content="LLANTA DE REFACCIÓN"/>
-                <CheckBox Grid.Column="1" Grid.Row="1"  Margin="5,5,5,5" Content="FILTRO DE AIRE"/>
-                <CheckBox Grid.Column="1" Grid.Row="2"  Margin="5,5,5,5" Content="BATERIA (MCA)"/>
-                <CheckBox Grid.Column="1" Grid.Row="3"  Margin="5,5,5,5" Content="EXTINGUIDOR"/>
-                <RadioButton  Grid.Column="1" Grid.Row="0" Content="3/4"  Margin="38,10,77,10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-                <RadioButton  Grid.Column="1" Grid.Row="0" Content="4/4"  Margin="107,11,8,9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-                <RadioButton  Grid.Column="0" Grid.Row="0" Content="1/4"  Margin="86,11,53,9" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+                <CheckBox x:Name="chkestuche" Grid.Column="0" Grid.Row="1"  Margin="5,5,5,5" Content="ESTUCHE DE HERRAMIENTAS"/>
+                <CheckBox x:Name="chktriangulo" Grid.Column="0" Grid.Row="2"  Margin="5,5,5,5" Content="TRIANGULO DE SEGURIDAD"/>
+                <CheckBox x:Name="chkllrefa" Grid.Column="0" Grid.Row="3"  Margin="5,5,5,5" Content="LLANTA DE REFACCIÓN"/>
+                <CheckBox x:Name="chkfiltroaire" Grid.Column="1" Grid.Row="1"  Margin="5,5,5,5" Content="FILTRO DE AIRE"/>
+                <CheckBox x:Name="chkllbateri" Grid.Column="1" Grid.Row="2"  Margin="5,5,5,5" Content="BATERIA (MCA)"/>
+                <CheckBox x:Name="chkextinguidor" Grid.Column="1" Grid.Row="3"  Margin="5,5,5,5" Content="EXTINGUIDOR"/>
+                <Slider Grid.Column="0" Grid.Row="0" VerticalAlignment="Bottom" Grid.ColumnSpan="2"
+                        VerticalContentAlignment="Center"  TickPlacement="Both"  Margin="0,-10,0,-35"
+                        Minimum="0" Maximum="10" Ticks="0, 2.5,5, 7.5,10" IsSnapToTickEnabled="True" 
+                        Style="{StaticResource MaterialDesignDiscreteSlider}" ToolTip="MaterialDesignDiscreteSlider" 
+                        Height="94" Width="400"  >
+                    
+                </Slider>
             </Grid>
 
 
