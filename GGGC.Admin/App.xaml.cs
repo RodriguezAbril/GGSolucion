@@ -56,7 +56,7 @@ namespace GGGC.Admin
 
             //  new LoginWindow().ShowDialog();
             //  new Shell().Show();
-            // new ShellWindow().Show();
+             new Window1().Show();
             //new MainWindow().Show();
 
 

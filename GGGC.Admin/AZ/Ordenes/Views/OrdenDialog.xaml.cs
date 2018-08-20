@@ -287,7 +287,7 @@ namespace GGGC.Admin.AZ.Ordenes.Views
            // rate.Value = 3080;
             string strigCodigo = ((System.Data.DataRowView)cour).Row.ItemArray[0].ToString();
 
-            llenarcombobox(strigCodigo);
+           llenarcombobox(strigCodigo);
         }
 
         private void llenarcombobox(string codigo)

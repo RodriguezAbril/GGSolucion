@@ -1,21 +1,21 @@
 ﻿<Application
-  x:Class="GGGC.Admin.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:GGGC.Admin.MultiThreadedBusyIndicator" xmlns:converters="clr-namespace:GGGC.Admin.Support" 
-
-    xmlns:metro="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" xmlns:system="clr-namespace:System;assembly=mscorlib" xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
-  StartupUri="ShellDockDesign.xaml">
+  x:Class="GGGC.Admin.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:GGGC.Admin.MultiThreadedBusyIndicator" xmlns:converters="clr-namespace:GGGC.Admin.Support" xmlns:metro="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" xmlns:system="clr-namespace:System;assembly=mscorlib" xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation">
   <!--   StartupUri="Shell.xaml"  "Red", "Green", "Blue", "Purple", "Orange", "Lime", "Emerald", "Teal", "Cyan", "Cobalt", "Indigo", "Violet", "Pink", "Magenta", "Crimson", "Amber", "Yellow", "Brown", "Olive", "Steel", "Mauve", "Taupe", "Sienna"-->
   <Application.Resources>
     <ResourceDictionary>
       <ResourceDictionary.MergedDictionaries>
-              
+                <ResourceDictionary Source="/Themes/OfficeBlack/System.Windows.xaml" />
+                <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.xaml" />
+                <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.Input.xaml" />
+                <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.Navigation.xaml" />
+                <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.ReportViewer.Wpf.xaml" />
                 <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
         <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
-
-                <ResourceDictionary
+        <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
-                <ResourceDictionary
+        <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
         <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
@@ -73,7 +73,16 @@
           Source="/GGGC.Admin;component/Resources/BreadCrumbNavigationStyles.xaml" />
         <!--<ResourceDictionary Source="Resources/Styles.xaml" />
                 <ResourceDictionary Source="Resources/TabControlStyles.xaml" />-->
-      
+        <ResourceDictionary
+          Source="Themes/OfficeBlack/System.Windows.xaml" />
+        <ResourceDictionary
+          Source="Themes/OfficeBlack/Telerik.Windows.Controls.xaml" />
+        <ResourceDictionary
+          Source="Themes/OfficeBlack/Telerik.Windows.Controls.Input.xaml" />
+        <ResourceDictionary
+          Source="Themes/OfficeBlack/Telerik.Windows.Controls.Navigation.xaml" />
+        <ResourceDictionary
+          Source="Themes/OfficeBlack/Telerik.ReportViewer.Wpf.xaml" />
       </ResourceDictionary.MergedDictionaries>
       <telerik:InvertedBooleanConverter
         x:Key="InvertedBooleanConveter" />
@@ -310,10 +319,8 @@
         <DataTemplate DataType="{x:Type vm2:RentalsViewModel}">
             <v2:RentalsView />
         </DataTemplate>-->
-      
       <!--MODULES.INVENTORY-->
       <!--Ajustes-->
-      
       <!--Compras-->
       <!--<DataTemplate DataType="{x:Type vm501:QueryViewModel}">
                 <v501:QueryView />
@@ -327,7 +334,9 @@
         DataType="{x:Type vm502:NewViewModel}">
         <v502:NewView />
       </DataTemplate>
-      --><!--devos--><!--
+      -->
+      <!--devos-->
+      <!--
       <DataTemplate
         DataType="{x:Type vm6401:NewViewModel}">
         <v6401:NewView />
@@ -336,7 +345,9 @@
         DataType="{x:Type vm6400:NewViewModel}">
         <v6400:NewView />
       </DataTemplate>
-      --><!--facts--><!--
+      -->
+      <!--facts-->
+      <!--
       <DataTemplate
         DataType="{x:Type vm6501:NewViewModel}">
         <v6501:NewView />
@@ -369,7 +380,9 @@
         DataType="{x:Type vm801:StatisticsViewModel}">
         <v801:StatisticsView />
       </DataTemplate>
-      --><!--Arellantas--><!--
+      -->
+      <!--Arellantas-->
+      <!--
       <DataTemplate
         DataType="{x:Type vm20:DashboardViewModel}">
         <v20:DashboardView />
@@ -1835,42 +1848,42 @@
           </Setter.Value>
         </Setter>
       </Style>
-
-      <Style x:Key="Borrar"
-             TargetType="{x:Type Button}">
-                <Setter
-                    Property="Foreground"
-                    Value="#FFFFFF" />
-                <Setter
-                    Property="Template">
-                    <Setter.Value>
-                        <ControlTemplate
-                            TargetType="{x:Type Button}">
-                            <Border
-                                 x:Name="bdr_main"
-                                 Background="#087196">
-                                <ContentPresenter
-                                  VerticalAlignment="Center"
-                                  HorizontalAlignment="Center"
-                                  ContentSource="Content" />    
-                            </Border>
-                            <ControlTemplate.Triggers>
-                                <Trigger
-                                      Property="IsMouseOver"
-                                      Value="True">         
-                                    <Setter
-                                        TargetName="bdr_main"
-                                        Property="Background"
-                                        Value="#74b9ff" />
-                                </Trigger>
-                                <!--<Trigger Property="IsPressed" Value="True">
+      <Style
+        x:Key="Borrar"
+        TargetType="{x:Type Button}">
+        <Setter
+          Property="Foreground"
+          Value="#FFFFFF" />
+        <Setter
+          Property="Template">
+          <Setter.Value>
+            <ControlTemplate
+              TargetType="{x:Type Button}">
+              <Border
+                x:Name="bdr_main"
+                Background="#087196">
+                <ContentPresenter
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  ContentSource="Content" />
+              </Border>
+              <ControlTemplate.Triggers>
+                <Trigger
+                  Property="IsMouseOver"
+                  Value="True">
+                  <Setter
+                    TargetName="bdr_main"
+                    Property="Background"
+                    Value="#74b9ff" />
+                </Trigger>
+                <!--<Trigger Property="IsPressed" Value="True">
                             <Setter TargetName="bdr_main" Property="Background" Value="Red"/>
                         </Trigger>-->
-                            </ControlTemplate.Triggers>
-                        </ControlTemplate>
-                    </Setter.Value>
-                </Setter>
-            </Style>
+              </ControlTemplate.Triggers>
+            </ControlTemplate>
+          </Setter.Value>
+        </Setter>
+      </Style>
       <!-- Export Button Styles -->
       <Style
         x:Key="ExportButtonStyle"
@@ -1908,7 +1921,6 @@
           </Setter.Value>
         </Setter>
       </Style>
-        
     </ResourceDictionary>
   </Application.Resources>
 </Application>

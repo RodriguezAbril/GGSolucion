@@ -15,6 +15,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Data;
 using System.Data.SqlClient;
+using System.Threading;
+using System.Globalization;
 
 namespace GGGC.Admin.AZ.Ordenes.Views
 {
@@ -36,6 +38,7 @@ namespace GGGC.Admin.AZ.Ordenes.Views
         const int m_rowHeight = 30;
         Border m_border;
         OrdenDialog m_fieldsPopup;
+        OrderCliente m_fieldsCliente;
         Cliente m_cliente;
         int estrella = 1;
        // Pendientes pendientes = new Pendientes();
@@ -73,10 +76,52 @@ namespace GGGC.Admin.AZ.Ordenes.Views
         #endregion
         public OrdenView()
         {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("es-MX");
+            // Sets the UI culture to French (France)
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("es-MX");
+
+
+
             InitializeComponent();
             Initialize();
+            llenarcombos();
         }
-        DataTable tabla = new DataTable();
+
+        private void llenarcombos()
+        {
+
+            Marca.Items.Add("Nissan");
+            Marca.Items.Add("Lambo");
+            Marca.Items.Add("Luxe");
+            Marca.Items.Add("Mattel");
+
+
+            Modelo.Items.Add("Carry");
+            Modelo.Items.Add("Tesla");
+            Modelo.Items.Add("Nigg");
+            Modelo.Items.Add("Boss");
+
+            Ano.Items.Add("1990");
+            Ano.Items.Add("1993");
+            Ano.Items.Add("1800");
+            Ano.Items.Add("2018");
+
+
+            Placas.Items.Add("zzz");
+            Placas.Items.Add("ttt");
+            Placas.Items.Add("aaa");
+            Placas.Items.Add("ggg");
+
+
+
+           Kilometraje.Items.Add("100+");
+           Kilometraje.Items.Add("1000+");
+            Kilometraje.Items.Add("10000+");
+           Kilometraje.Items.Add("100000+");
+
+        }
+
+            DataTable tabla = new DataTable();
 
         private void Initialize()
         {
@@ -133,6 +178,11 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             (sender as OrdenDialog).InitializeFocus();
         }
 
+        void fieldsPopup_Openedc(object sender, object e)
+        {
+            (sender as OrderCliente).InitializeFocus();
+        }
+
         void myDialog_UpdateRequested(object sender, EventArgs e)
         {
            
@@ -144,9 +194,35 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             m_fieldsPopup.Close();
         }
 
-        void myDialog_CloseRequested(object sender, EventArgs e)
+        void myDialog_UpdateRequestedc(object sender, EventArgs e)
+        {
+
+
+            ClienteItem itemc = (e as FieldsUpdateEventArgss).UpdatedFields;
+            AddItemc(itemc, false);
+
+
+            m_fieldsCliente.Close();
+        }
+
+
+
+        public void AddItemc(ClienteItem item, bool addToGridAlone)
+        {
+
+            txtradial.Text = item.Numero_De_Cliente.ToString();
+            txtrfc.Text = item.RFC.ToString();
+               
+
+        }
+
+            void myDialog_CloseRequested(object sender, EventArgs e)
         {
             m_fieldsPopup.Close();
+        }
+        void myDialog_CloseRequestedC(object sender, EventArgs e)
+        {
+            m_fieldsCliente.Close();
         }
 
 
@@ -503,7 +579,9 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             double ttoal = totalisimo * 1.16;
             double ivas = totalisimo * 0.16;
             TotalIva.Text = "$" + ttoal.ToString("#,###.00", CultureInfo.InvariantCulture);
+            TotalIva_Copy.Text = ttoal.ToString();
             Iva.Text = "$" + ivas.ToString("#,###.00", CultureInfo.InvariantCulture);
+            Iva_Copy.Text = ivas.ToString();
         }
 
         void UpdateCantidad()
@@ -512,114 +590,96 @@ namespace GGGC.Admin.AZ.Ordenes.Views
         }
 
 
-        public byte fncObtenAccesorios1()
+        public int fncObtenAccesorios1()
         {
-            byte bytValor;
+            int bytValor;
             bytValor = 0;
-           
-            if (chkvarilla.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 128);
-            if (chkestuche.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 64);
-            if (chktriangulo.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 32);
-            if (chkllrefa.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 16);
-            if (chkfiltroaire.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 8);
-            if (chkllbateri.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
-            if (chkextinguidor.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
-            return bytValor;
-        }
-        public byte fncObtenAccesorios2()
-        {
-            byte bytValor;
-            bytValor = 0;
-            if (chkgato.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 32);
-            if (chkmaneral.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 16);
+
             if (chkllave.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 8);
-            if (chktaponaceite.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
+                bytValor = bytValor + 4096;
+            if (chkmaneral.IsChecked == true)
+                bytValor = bytValor + 2048;
+            if (chkgato.IsChecked == true)
+                bytValor = bytValor + 1024;
             if (chktaponradiador.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
-
+                bytValor = bytValor + 512;
+            if (chktaponaceite.IsChecked == true)
+                bytValor = bytValor + 256;
+            if (chkvarilla.IsChecked == true)
+                bytValor = bytValor + 128;
+            if (chkestuche.IsChecked == true)
+                bytValor = bytValor + 64;
+            if (chktriangulo.IsChecked == true)
+                bytValor =bytValor + 32;
+            if (chkllrefa.IsChecked == true)
+                bytValor = bytValor + 16;
+            if (chkfiltroaire.IsChecked == true)
+                bytValor = bytValor + 8;
+            if (chkllbateri.IsChecked == true)
+                bytValor = bytValor + 4;
+            if (chkextinguidor.IsChecked == true)
+                bytValor = bytValor + 2;
             return bytValor;
         }
+      
 
 
-        public byte fncObtenExteriores1()
+        public int fncObtenExteriores1()
         {
-            byte bytValor;
+            int bytValor;
             bytValor = 0;
 
-            if (chkcompletas.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 128);
-            if (chkmoldeduras.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 64);
-            if (chktapas.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 32);
-            if (chkcristales.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 16);
-            if (chkespejo.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 8);
-            if (chkantena.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
-            if (chkluces.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
-            return bytValor;
-        }
-        public byte fncObtenExteriores2()
-        {
-            byte bytValor;
-            bytValor = 0;
-
-         
-            if (chkparabrisa.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 8);
-            if (chkcarroseria.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
-            if (chktapon.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
-            return bytValor;
-        }
-
-        public byte fncObtenInteriores1()
-        {
-            byte bytValor;
-            bytValor = 0;
-
-            if (chkmanijas.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 128);
-            if (chkcinturon.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 64);
-            if (chkespejoretro.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 32);
-            if (chkencendedor.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 16);
-            if (chkbocinas.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 8);
-            if (chkesterio.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
-            if (chktablero.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
-            return bytValor;
-        }
-        public byte fncObtenInteriores2()
-        {
-            byte bytValor;
-            bytValor = 0;
+            //QUITARELCONVERT
             
-            if (chkvestidura.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 4);
-            if (chktapetes.IsChecked == true)
-                bytValor = Convert.ToByte(bytValor + 2);
+            if (chkparabrisa.IsChecked == true)
+                bytValor =bytValor + 1024;
+            if (chkcarroseria.IsChecked == true)
+                bytValor = bytValor + 512;
+            if (chktapon.IsChecked == true)
+                bytValor = bytValor + 256;
+            if (chkcompletas.IsChecked == true)
+                bytValor = bytValor + 128;
+            if (chkmoldeduras.IsChecked == true)
+                bytValor = bytValor + 64;
+            if (chktapas.IsChecked == true)
+                bytValor = bytValor + 32;
+            if (chkcristales.IsChecked == true)
+                bytValor = bytValor + 16;
+            if (chkespejo.IsChecked == true)
+                bytValor = bytValor + 8;
+            if (chkantena.IsChecked == true)
+                bytValor = bytValor + 4;
+            if (chkluces.IsChecked == true)
+                bytValor = bytValor + 2;
             return bytValor;
         }
+       
+
+        public int fncObtenInteriores1()
+        {
+            int bytValor;
+            bytValor = 0;
+            if (chkvestidura.IsChecked == true)
+                bytValor = bytValor + 512;
+            if (chktapetes.IsChecked == true)
+                bytValor = bytValor + 256;
+            if (chkmanijas.IsChecked == true)
+                bytValor = bytValor + 128;
+            if (chkcinturon.IsChecked == true)
+                bytValor = bytValor + 64;
+            if (chkespejoretro.IsChecked == true)
+                bytValor = bytValor + 32;
+            if (chkencendedor.IsChecked == true)
+                bytValor = bytValor + 16;
+            if (chkbocinas.IsChecked == true)
+                bytValor = bytValor + 8;
+            if (chkesterio.IsChecked == true)
+                bytValor =bytValor + 4;
+            if (chktablero.IsChecked == true)
+                bytValor =bytValor + 2;
+            return bytValor;
+        }
+       
 
         private void Save_Click(object sender, RoutedEventArgs e)
         {
@@ -637,19 +697,33 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             //if (formPass != null)
 
             // tabPendientes.
-            byte bytAccesorios1 = fncObtenAccesorios1();
-            byte bytAccesorios2 = fncObtenAccesorios2();
-            byte bytExte1 = fncObtenExteriores1();
-            byte bytEste2 = fncObtenExteriores2();
-            byte bytInte1 = fncObtenInteriores1();
-            byte bytInte2 = fncObtenInteriores2();
-            string factura = Folioo.Text; ;
+
+            DateTime recep = Convert.ToDateTime(DateRecepcion.DateTimeText);
+            var V = recep.ToString("MM/dd/yyyy");
+             
+            
+            string gaso = SliderGasolina.Value.ToString();
+            int bytAccesorios1 = fncObtenAccesorios1();
+           
+            int bytExte1 = fncObtenExteriores1();
+          
+            int bytInte1 = fncObtenInteriores1();
+          
+            string factura = Folioo.Text;
+
+            decimal subtotal = Convert.ToDecimal(TotalDue);
+            decimal iva = Convert.ToDecimal(Iva_Copy.Text);
+            decimal supertotal = Convert.ToDecimal(TotalIva_Copy.Text);
+            string observacion = ObservacionInterna.Text;
+
+            int OrderId = Convert.ToInt32( GlobalId.Identificador);
 
             string connectionStringer = "SERVER = gggctserver.database.windows.net; DATABASE = devArellantas; USER ID = sysadmin_gg_gc_sa_dgo_testing; PASSWORD = GRUPO.gu@di@n@.Grupo.Campos_#Staging_Test.2099 ";
             SqlConnection sqlcon = new SqlConnection(connectionStringer);
             sqlcon.Open();
 
-            SqlCommand agregar = new SqlCommand("INSERT INTO [dbo].[OrderHeader] ([OrderID],[CustomerID] ,[RFC],[InvoiceNumber],[Prefix],[Sufix],[DeliveryMethodID],[OrderDate],[ReceptionDate],[DueDate],[OrderQty],[Subtotal],[Tax],[Total],[ExteriorValues],[InteriorValues],[AccesoriesValues],[CompanyID],[StoreID],[Comments],[UserID],[LocalIP],[PublicIP],[SystemInfo],[UserInfo],[InsertDate],[ModifiedDate],[LastUpdate],[StatusID],[DeletedFlag])values (12,'','','','','',0,getdate(),getdate(),getdate(),0,0,0,0," + bytAccesorios1 + "," + bytExte1 + "," + bytInte1 + ",0,0,'Venia lleno',0,'192.168','','','',getdate(),getdate(),getdate(),0,0)", sqlcon);
+
+            SqlCommand agregar = new SqlCommand("INSERT INTO [dbo].[OrderHeader] ([OrderID],[CustomerID] ,[RFC],[InvoiceNumber],[Prefix],[Sufix],[DeliveryMethodID],[OrderDate],[ReceptionDate],[DueDate],[OrderQty],[Subtotal],[Tax],[Total],[ExteriorValues],[InteriorValues],[AccesoriesValues],[CompanyID],[StoreID],[Comments],[UserID],[LocalIP],[PublicIP],[SystemInfo],[UserInfo],[InsertDate],[ModifiedDate],[LastUpdate],[StatusID],[DeletedFlag])values (" + OrderId + ",'','','','','',0,getdate(),getdate(),getdate(),0, " + subtotal + " ,0 , " + supertotal+ " ," + bytExte1+ "," + bytInte1 + "," + bytAccesorios1 + ",0,0,'" + observacion + "',0,'192.168','','','',getdate(),getdate(),getdate(),0,0)", sqlcon);
 
 
             //SqlCommand agregar = new SqlCommand("Insert Into Ordenes2 values ('" + factura + "'," + bytAccesorios1 + "," + bytAccesorios2 + ")", sqlcon);
@@ -678,6 +752,7 @@ namespace GGGC.Admin.AZ.Ordenes.Views
 
             foreach (DataRow Registro in tabla.Rows)
             {
+                
                 string codigo = Registro[2].ToString();
                 int id = Convert.ToInt32(Registro[0]);
                 int renglon = Convert.ToInt32(Registro[1]);
@@ -694,14 +769,14 @@ namespace GGGC.Admin.AZ.Ordenes.Views
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("error al cargar " + ex.ToString());
+                    MessageBox.Show("error al conectar " + ex.ToString());
                 }
 
 
             }
 
             sqlcon.Close();
-
+            MessageBox.Show("se guardo Correctamente ");
 
 
         }
@@ -748,6 +823,22 @@ namespace GGGC.Admin.AZ.Ordenes.Views
             }
 
 
+            if (e.Key == Key.F3)
+            {
+                m_fieldsCliente = new OrderCliente();
+               
+             
+                m_fieldsCliente.CloseRequestedc += myDialog_CloseRequestedC;
+                m_fieldsCliente.UpdateRequestedc += myDialog_UpdateRequestedc;
+                m_fieldsCliente.Activated += fieldsPopup_Openedc;
+                m_fieldsCliente.Background = new SolidColorBrush(Colors.Red);
+                RootGrid.Opacity = 0.1;
+                m_fieldsCliente.Opacity = 1;
+                m_fieldsCliente.ShowDialog();
+                RootGrid.Opacity = 1;
+            }
+
+
             if (e.Key == Key.F7)
             {
                 tabla.Rows[m_selectedIndex].Delete();
@@ -764,5 +855,87 @@ namespace GGGC.Admin.AZ.Ordenes.Views
         {
 
         }
+
+        private void Exportar_Click(object sender, RoutedEventArgs e)
+        {
+            string strfolio = Folioo.Text;
+            export15(strfolio);
+
+
+        }
+
+
+        private void export15(string folio)
+        {
+
+
+            DataTable tablaOrden = GetHeader(folio);
+            DataTable tablaDeatil = GetDetail(folio);
+
+            RptOrden fac = new RptOrden(tablaOrden, tablaDeatil);
+
+        }
+
+        static DataTable GetHeader(string folio)
+        {
+            string conect = "SERVER = gggctserver.database.windows.net; DATABASE = devArellantas; USER ID = sysadmin_gg_gc_sa_dgo_testing; PASSWORD = GRUPO.gu@di@n@.Grupo.Campos_#Staging_Test.2099 ";
+
+            SqlConnection sqlconn = new SqlConnection(conect);
+            try {
+                sqlconn.Open();
+            }
+            catch (Exception ex) {
+
+                MessageBox.Show("ERROR DE CONEXION"+ex.Message);
+            }
+
+           
+           
+
+
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM OrderHeader WHERE OrderID = " + folio + " ", sqlconn);
+            DataSet dsPubs = new DataSet("Pubs");
+            adapter.Fill(dsPubs, "OrderHeader");
+            DataTable dtbl = new DataTable();
+
+            dtbl = dsPubs.Tables["OrderHeader"];
+            sqlconn.Close();
+
+            return dtbl;
+        }
+
+
+        static DataTable GetDetail(string folio)
+        {
+            string conect = "SERVER = gggctserver.database.windows.net; DATABASE = devArellantas; USER ID = sysadmin_gg_gc_sa_dgo_testing; PASSWORD = GRUPO.gu@di@n@.Grupo.Campos_#Staging_Test.2099 ";
+
+
+            SqlConnection sqlconn = new SqlConnection(conect);
+           
+            try
+            {
+                sqlconn.Open();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show("ERROR DE CONEXION" + ex.Message);
+            }
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM OrderDetail WHERE OrderID = " + folio + " ", sqlconn);
+            DataSet dsPubs = new DataSet("Pubs");
+            adapter.Fill(dsPubs, "OrderDetail");
+            DataTable dtbl = new DataTable();
+
+            dtbl = dsPubs.Tables["OrderDetail"];
+            sqlconn.Close();
+
+            return dtbl;
+        }
+
+
+
     }
+
+
+
 }
