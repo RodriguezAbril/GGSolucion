@@ -28,6 +28,8 @@
         <Grid.ColumnDefinitions>
 
         </Grid.ColumnDefinitions>
+        
+        
         <TabControl Grid.Row="0" Margin="0,0,0,0" >
 
 
@@ -352,7 +354,7 @@
                         <RowDefinition Height="33"/>
                         <RowDefinition Height="39*"/>
                     </Grid.RowDefinitions>
-                    <TextBlock Grid.Row="1" x:Name="TotalAmount" Text="00.00" FontSize="16"  Foreground="#404435"  VerticalAlignment="Center"  HorizontalAlignment="Center" Height="27" Margin="22,5,23,31" Width="90" Grid.RowSpan="2"/>
+                    <TextBlock Grid.Row="1" x:Name="TotalAmount" Text="00.00" FontSize="16"  Foreground="#404435"  VerticalAlignment="Bottom"  HorizontalAlignment="Center" Height="27" Margin="22,0,23,31" Width="90" Grid.RowSpan="2"/>
                     <TextBlock Grid.Row="2" x:Name="Iva" Text="00.00" FontSize="16"  Foreground="#404435"  VerticalAlignment="Center"  HorizontalAlignment="Center" Height="22" Margin="22,7,23,4" Width="90"/>
                     <TextBlock Grid.Row="3" x:Name="TotalIva" Text="00.00" FontSize="16"  Foreground="#404435"  VerticalAlignment="Center"  HorizontalAlignment="Center" Height="26" Margin="22,4,23,0" Width="90"/>
                     <TextBlock Grid.Row="2" x:Name="Iva_Copy" Text="00.00" Visibility="Hidden" FontSize="16"  Foreground="#404435"  VerticalAlignment="Center"  HorizontalAlignment="Center" Height="22" Margin="-179,7,224,4" Width="90"/>

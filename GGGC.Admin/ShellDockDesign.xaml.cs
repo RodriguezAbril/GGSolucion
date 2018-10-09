@@ -24,6 +24,8 @@ using Newtonsoft.Json.Linq;
 using System.Threading.Tasks;
 using GGGC.Admin.Sign.ViewModels;
 using MahApps.Metro.Controls;
+using Microsoft.Win32;
+using System.Windows.Media;
 
 namespace GGGC.Admin
 {
@@ -454,7 +456,7 @@ namespace GGGC.Admin
                     if (userControls.ContainsKey("0117"))
                     {
                         userControls.Remove("0117");
-                        uc0117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Ordenes.Views.OrdenV iew", type.Namespace));
+                        uc0117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Ordenes.Views.OrdenView", type.Namespace));
                         userControls.Add("Ordenes", uc0117);
                     }
                     else
@@ -464,6 +466,70 @@ namespace GGGC.Admin
                         AddDetail(uc0117, "Ordenes");
                     }
                     break;
+                case "01117":
+                    UserControl uc01117 = null;
+                    if (userControls.ContainsKey("01117"))
+                    {
+                        userControls.Remove("01117");
+                        uc01117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Precios.PreciosView", type.Namespace));
+                        userControls.Add("Precios", uc01117);
+                    }
+                    else
+                    {
+                        uc01117 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Precios.PreciosView", type.Namespace));
+                        userControls.Add("01117", uc01117);
+                        AddDetail(uc01117, "Precios");
+                    }
+                    break;
+                case "0119":
+                    UserControl uc0119 = null;
+                    if (userControls.ContainsKey("0119"))
+                    {
+                        userControls.Remove("0119");
+                        uc0119 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Remisiones.Views.RemisionView", type.Namespace));
+                        userControls.Add("Remisiones", uc0119);
+                    }
+                    else
+                    {
+                        uc0119 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Remisiones.Views.RemisionView", type.Namespace));
+                        userControls.Add("0119", uc0119);
+                        AddDetail(uc0119, "Remisiones");
+                    }
+                    break;
+
+
+                case "0888":
+                    UserControl uc0888 = null;
+                    if (userControls.ContainsKey("0888"))
+                    {
+                        userControls.Remove("0888");
+                        uc0888 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Remisiones.Views.IngresosView", type.Namespace));
+                        userControls.Add("Otros Ingresos", uc0888);
+                    }
+                    else
+                    {
+                        uc0888 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.OtrosIngresos.Views.IngresosView", type.Namespace));
+                        userControls.Add("0888", uc0888);
+                        AddDetail(uc0888, "Otros Ingresos");
+                    }
+                    break;
+
+                case "08888":
+                    UserControl uc08888 = null;
+                    if (userControls.ContainsKey("08888"))
+                    {
+                        userControls.Remove("08888");
+                        uc08888 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Pagares.PagareView", type.Namespace));
+                        userControls.Add("Pagares", uc08888);
+                    }
+                    else
+                    {
+                        uc08888 = (UserControl)assembly.CreateInstance(string.Format("{0}.AZ.Pagares.PagareView", type.Namespace));
+                        userControls.Add("08888", uc08888);
+                        AddDetail(uc08888, "Pagares");
+                    }
+                    break;
+
 
 
                 case "951":
@@ -539,15 +605,19 @@ namespace GGGC.Admin
             //_tabItems.Add(_tabAdd);
 
             var pane = new RadPane();
+           // pane.Background = Brushes.Pink;
             pane.Content = detail;
             pane.Header = name;
+           // leftGroup.Background = Brushes.Pink;
+
+            //pane.Background = 
 
 
             //    create and populate the new tab and add it to the tab control
             //  TabItemExt newTab = new TabItemExt();
-          //  newTab.Content = detail;
+            //  newTab.Content = detail;
             //newTab.Header = name;
-             containerOK.Items.Add(pane);
+            containerOK.Items.Add(pane);
             //_tabItems.Add(pane);
 
             //    display the new tab to the user; if this line is missing
@@ -1037,11 +1107,26 @@ namespace GGGC.Admin
         public static byte bytSUCURSAL = 0;
         public static byte bytEMPRESA = 0;
 
-       // public int chkgato = 0;
+        // public int chkgato = 0;
         //public static int MyFunction()
         //{
         //    return 22;
         //}
+
+
+        public static string GetSetting(string appName, string section, string key, string sDefault)
+        {
+            // Los datos de VB se guardan en:
+            // HKEY_CURRENT_USER\Software\VB and VBA Program Settings
+            RegistryKey rk = Registry.CurrentUser.OpenSubKey(@"Software\VB and VBA Program Settings\" +
+                                                              appName + "\\" + section);
+            string s = sDefault;
+            if (rk != null)
+            {
+                s = (string)rk.GetValue(key);
+            }
+            return s;
+        }
 
         public static string getPublicIP()
         {

@@ -55,18 +55,22 @@ namespace GGGC.Admin
 
 
             //  new LoginWindow().ShowDialog();
-            //  new Shell().Show();
-             new Window1().Show();
+            //new Shell().Show();
+            //------> reporte de inventario telerik new Window1().Show();
             //new MainWindow().Show();
 
 
 
             // new Shell().Show();
-            //new ShellDock().Show();
+            // new 
+            //().Show();
 
-            //ShellDockDesign NewWindowB = new ShellDockDesign();
+            GlobalModule.bytSUCURSAL = Convert.ToByte(GlobalModule.GetSetting("GrupoGuadiana", "Config", "SucursalID", String.Empty));
+            GlobalModule.bytEMPRESA = Convert.ToByte(GlobalModule.GetSetting("GrupoGuadiana", "Config", "EmpresaID", String.Empty));
+
+            ShellDockDesign NewWindowB = new ShellDockDesign();
             //Current.MainWindow.WindowState = WindowState.Maximized;
-           // NewWindowB.Show();
+            NewWindowB.Show();
 
            // new ShellDockDesign();
         }

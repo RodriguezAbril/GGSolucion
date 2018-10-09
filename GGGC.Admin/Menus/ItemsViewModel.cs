@@ -543,8 +543,22 @@ namespace GGGC.Admin.Menus
                     BusinessItem mnuGG_Orden = new BusinessItem(null) { Name = "Facturacion", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };
                     this.Add(mnuGG_Orden);
 
+
+                    BusinessItem mnuGG_Remision = new BusinessItem(null) { Name = "Vales", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };
+                    this.Add(mnuGG_Remision);
+
                     BusinessItem mnuGG_Modules_Nivel1_1 = new BusinessItem(mnuGG) { Name = "OrdenPatio", Tag = "0117", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
                     mnuGG_Orden.Items.Add(mnuGG_Modules_Nivel1_1);
+                    BusinessItem mnuGG_Modules_Nivel1_5 = new BusinessItem(mnuGG) { Name = "Precios", Tag = "01117", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
+                    mnuGG_Orden.Items.Add(mnuGG_Modules_Nivel1_5);
+
+                    BusinessItem mnuGG_Modules_Nivel1_2 = new BusinessItem(mnuGG) { Name = "Remision", Tag = "0119", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
+                    mnuGG_Remision.Items.Add(mnuGG_Modules_Nivel1_2);
+                    BusinessItem mnuGG_Modules_Nivel1_3 = new BusinessItem(mnuGG) { Name = "Otros Ingresos", Tag = "0888", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
+                    mnuGG_Remision.Items.Add(mnuGG_Modules_Nivel1_3);
+                    BusinessItem mnuGG_Modules_Nivel1_4 = new BusinessItem(mnuGG) { Name = "Pagares", Tag = "08888", IsSelected = false, IsEnabled = true, Visibility = (int)System.Windows.Visibility.Visible };
+                    mnuGG_Remision.Items.Add(mnuGG_Modules_Nivel1_4);
+
 
                     //Root
                     BusinessItem mnuGG_Administracion = new BusinessItem(null) { Name = "Administración", Tag = "00", IsSelected = false, IsEnabled = true, ImagePath = "/GGGC.Admin;component/Resources/Images/folder.png" };

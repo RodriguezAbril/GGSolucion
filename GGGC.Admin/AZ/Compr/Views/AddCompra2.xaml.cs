@@ -436,11 +436,7 @@ namespace GGGC.Admin.AZ.Compr.Views
             MainGrid.Opacity = 1;
             //progress.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+      
         private void ExcelExport_Click(object sender, RoutedEventArgs e)
         {
             MainGrid.IsHitTestVisible = false;
@@ -474,11 +470,7 @@ namespace GGGC.Admin.AZ.Compr.Views
         {
             //this.BottomAppBar1.IsOpen = true;
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+       
         private void About(object sender, RoutedEventArgs e)
         {
 
@@ -718,31 +710,7 @@ namespace GGGC.Admin.AZ.Compr.Views
         }
 
 
-        //public async void LaunchedFromToast(String arguments)
-        //{
-        //    StorageFolder folder = KnownFolders.DocumentsLibrary;
-        //    StorageFile file = await folder.GetFileAsync(arguments);
-        //    bool success = await Windows.System.Launcher.LaunchFileAsync(file);
-
-
-
-        //    if (!success)
-        //    {
-        //        MessageDialog msgDialog = new MessageDialog("Do you want to view the Document?", "File has been created successfully.");
-        //        UICommand yesCmd = new UICommand("Yes");
-        //        msgDialog.Commands.Add(yesCmd);
-        //        UICommand noCmd = new UICommand("No");
-        //        msgDialog.Commands.Add(noCmd);
-        //        IUICommand cmd = await msgDialog.ShowAsync();
-        //        if (cmd == yesCmd)
-        //        {
-        //            // Launch the retrieved file
-        //            success = await Windows.System.Launcher.LaunchFileAsync(file);
-        //        }
-        //    }
-
-
-        //}
+      
         #endregion
 
     }

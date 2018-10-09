@@ -4,13 +4,18 @@
   <Application.Resources>
     <ResourceDictionary>
       <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.lightblue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.lightblue.xaml" />
+
                 <ResourceDictionary Source="/Themes/OfficeBlack/System.Windows.xaml" />
                 <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.xaml" />
                 <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.Input.xaml" />
                 <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.Windows.Controls.Navigation.xaml" />
                 <ResourceDictionary Source="/Themes/OfficeBlack/Telerik.ReportViewer.Wpf.xaml" />
-                <ResourceDictionary
-          Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
         <ResourceDictionary
           Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
         <ResourceDictionary
@@ -31,10 +36,22 @@
           Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.Data.xaml" />
         <ResourceDictionary
           Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.Navigation.xaml" />
-        <ResourceDictionary
+
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary  Source= "pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml"  />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary  Source = "pack://application:,,,/MahApps.Metro;component/Styles/FlatButton.xaml"  />
+                <ResourceDictionary  Source = "pack://application:,,,/MahApps.Metro;component/Styles/FlatSlider.xaml"  />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedTabControl.xaml" />
+                <ResourceDictionary
           Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.GridView.xaml" />
-        <ResourceDictionary
-          Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.DataVisualization.xaml" />
+                <!--<ResourceDictionaryRadTreeViewItem
+          Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.DataVisualization.xaml" />-->
         <ResourceDictionary
           Source="/Telerik.Windows.Themes.Green;component/Themes/Telerik.Windows.Controls.Spreadsheet.xaml" />
         <ResourceDictionary
@@ -73,16 +90,7 @@
           Source="/GGGC.Admin;component/Resources/BreadCrumbNavigationStyles.xaml" />
         <!--<ResourceDictionary Source="Resources/Styles.xaml" />
                 <ResourceDictionary Source="Resources/TabControlStyles.xaml" />-->
-        <ResourceDictionary
-          Source="Themes/OfficeBlack/System.Windows.xaml" />
-        <ResourceDictionary
-          Source="Themes/OfficeBlack/Telerik.Windows.Controls.xaml" />
-        <ResourceDictionary
-          Source="Themes/OfficeBlack/Telerik.Windows.Controls.Input.xaml" />
-        <ResourceDictionary
-          Source="Themes/OfficeBlack/Telerik.Windows.Controls.Navigation.xaml" />
-        <ResourceDictionary
-          Source="Themes/OfficeBlack/Telerik.ReportViewer.Wpf.xaml" />
+        
       </ResourceDictionary.MergedDictionaries>
       <telerik:InvertedBooleanConverter
         x:Key="InvertedBooleanConveter" />
@@ -133,6 +141,16 @@
           Property="FontFamily"
           Value="Segoe UI" />
       </Style>
+        <!--<Style
+        TargetType="telerik:RadTreeViewItem"
+        BasedOn="{StaticResource RadTreeViewItemStyle}">
+        <Setter
+          Property="FontSize"
+          Value="13" />
+        <Setter
+          Property="FontFamily"
+          Value="Segoe UI" />
+      </Style>-->
       <Style
         TargetType="telerik:RadToolBar"
         BasedOn="{StaticResource RadToolBarStyle}">
@@ -1848,7 +1866,43 @@
           </Setter.Value>
         </Setter>
       </Style>
-      <Style
+            <Style
+        x:Key="EstrellaItemButton"
+        TargetType="{x:Type Button}">
+                <Setter
+          Property="Foreground"
+          Value="#FFFFFF" />
+                <Setter
+          Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate
+              TargetType="{x:Type Button}">
+                            <Border
+                x:Name="bdr_main"
+                Background="#f9690e">
+                                <ContentPresenter
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  ContentSource="Content" />
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger
+                  Property="IsMouseOver"
+                  Value="True">
+                                    <Setter
+                    TargetName="bdr_main"
+                    Property="Background"
+                    Value="#f27935" />
+                                </Trigger>
+                                <!--<Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bdr_main" Property="Background" Value="Red"/>
+                        </Trigger>-->
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+            <Style
         x:Key="Borrar"
         TargetType="{x:Type Button}">
         <Setter
@@ -1921,6 +1975,136 @@
           </Setter.Value>
         </Setter>
       </Style>
-    </ResourceDictionary>
+
+            <Style
+        x:Key="babyblueButtonStyle"
+        TargetType="{x:Type Button}">
+                <Setter
+          Property="Foreground"
+          Value="#FFFFFF" />
+                <Setter
+          Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate
+              TargetType="{x:Type Button}">
+                            <Border
+                x:Name="bdr_main"
+                Background="#59abe3">
+                                <ContentPresenter
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  ContentSource="Content" />
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger
+                  Property="IsMouseOver"
+                  Value="True">
+                                    <Setter
+                    TargetName="bdr_main"
+                    Property="Background"
+                    Value="#89c4f4" />
+                                </Trigger>
+                                <!--<Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bdr_main" Property="Background" Value="Red"/>
+                        </Trigger>-->
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style  x:Key="grayButtonStyle"
+        TargetType="{x:Type Button}">
+                <Setter
+          Property="Foreground"
+          Value="#FFFFFF" />
+                <Setter
+          Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate
+              TargetType="{x:Type Button}">
+                            <Border
+                x:Name="bdr_main"
+                Background="#6c7a89">
+                                <ContentPresenter
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  ContentSource="Content" />
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger
+                  Property="IsMouseOver"
+                  Value="True">
+                                    <Setter
+                    TargetName="bdr_main"
+                    Property="Background"
+                    Value="#95a5a6" />
+                                </Trigger>
+                                <!--<Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bdr_main" Property="Background" Value="Red"/>
+                        </Trigger>-->
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style x:Key="greenButtonStyle"
+        TargetType="{x:Type Button}">
+                <Setter
+          Property="Foreground"
+          Value="#FFFFFF" />
+                <Setter
+          Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate
+              TargetType="{x:Type Button}">
+                            <Border
+                x:Name="bdr_main"
+                Background="#2abb9b">
+                                <ContentPresenter
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  ContentSource="Content" />
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger
+                  Property="IsMouseOver"
+                  Value="True">
+                                    <Setter
+                    TargetName="bdr_main"
+                    Property="Background"
+                    Value="#36d7b7" />
+                                </Trigger>
+                                <!--<Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bdr_main" Property="Background" Value="Red"/>
+                        </Trigger>-->
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style TargetType="telerik:GridViewGroupPanel">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate  TargetType="telerik:GridViewGroupPanel">
+                            <Grid Background="LightGray">
+
+                                <WrapPanel Margin="-2,0,0,0">
+                                    <ItemsPresenter x:Name="itemsPresenter" Margin="0,10,10,0" />
+                                </WrapPanel>
+                                <TextBlock Text="Arrastrar un encabezado de columna y soltarlo aquí al lado del grupo de esa columna " Margin="10, 0, 0, 0"  IsHitTestVisible="False" VerticalAlignment="Center"  />
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style x:Key="AlternateRowColor" TargetType="{x:Type telerik:GridViewRow}">
+                <Setter Property="Background" Value="#FFFFD18D" />
+            </Style>
+
+        </ResourceDictionary>
   </Application.Resources>
 </Application>

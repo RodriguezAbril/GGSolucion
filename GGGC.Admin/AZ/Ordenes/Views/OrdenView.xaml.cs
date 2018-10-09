@@ -586,7 +586,7 @@ namespace GGGC.Admin.AZ.Ordenes.Views
 
         void UpdateCantidad()
         {
-          //  this.TotalCantidad.Text = TotalCant.ToString();
+          // this.TotalCantidad.Text = TotalCant.ToString();
         }
 
 

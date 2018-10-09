@@ -485,11 +485,6 @@ C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Resources\WindowStyles.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\SettingsView.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Sign\ResourceDictionaries\LoginDialogRD.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.baml
-C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\System.Windows.baml
-C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.ReportViewer.Wpf.baml
-C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Input.baml
-C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.baml
-C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.baml
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.baml
@@ -807,3 +802,1286 @@ C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CoreCompil
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CopyComplete
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.exe
 C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Remisiones.Views.RptRemision.resources
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\System.Windows.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.ReportViewer.Wpf.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Input.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.g.cs
+C:\Users\Abril\Desktop\BIG.WPF\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Reports\SampleReport.trdp
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Resources\Images\App\DemoUser2.png
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Sign\ExternalDLL\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Admin.exe.config
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ControlzEx.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\EntityFramework.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\FluentValidation.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Client.Contracts.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Client.Entities.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\GGGC.Client.Proxies.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\MahApps.Metro.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.Sinks.AzureTableStorage.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Data.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Spatial.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.Reporting.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\WebGrease.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\WPFToolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ControlzEx.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\EntityFramework.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\FluentValidation.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\MahApps.Metro.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\MahApps.Metro.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll.config
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\System.Spatial.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.Reporting.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.xml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\Precios.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modals\Password.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\BreadCrumbNavigationStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\ButtonStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\ComboBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\DataGridStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\GroupBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\Icons.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\ListBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\MenuStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\ScrollBarStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\Styles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\TextBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\WindowStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\SettingsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Sign\ResourceDictionaries\LoginDialogRD.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Themes\OfficeBlack\System.Windows.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.ReportViewer.Wpf.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Input.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\Precios.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\LoginWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modals\Password.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ReportViewerWindow1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\SettingsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ShellDockDesign.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ShellWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\App.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin_Content.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.cache
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.lref
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\App.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ncr\Views\Style\Style.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\LoginWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\MultiThreadedBusyIndicator\Style.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ReportViewerWindow1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\CommonStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Resources\TabControlStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ShellDockDesign.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\ShellWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.g.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.Report1.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.RptOrden.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Remisiones.Views.RptRemision.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.Properties.Resources.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.Report1.resources
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.GenerateResource.cache
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.exe.licenses
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CopyComplete
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\BIG.WPF 4-918\GGGC.Admin\obj\Debug\GGGC.Admin.csprojAssemblyReference.cache
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Reports\SampleReport.trdp
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Resources\Images\App\DemoUser2.png
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Sign\ExternalDLL\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Admin.exe.config
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ControlzEx.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\EntityFramework.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\FluentValidation.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Client.Contracts.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Client.Entities.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\GGGC.Client.Proxies.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MahApps.Metro.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.Sinks.AzureTableStorage.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Data.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Spatial.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.Reporting.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\WebGrease.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\WPFToolkit.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ControlzEx.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\EntityFramework.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\FluentValidation.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MahApps.Metro.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MahApps.Metro.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll.config
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\System.Spatial.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.Reporting.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.csprojAssemblyReference.cache
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\Precios.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modals\Password.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\BreadCrumbNavigationStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\ButtonStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\ComboBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\DataGridStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\GroupBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\Icons.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\ListBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\MenuStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\ScrollBarStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\Styles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\TextBoxStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\WindowStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\SettingsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Sign\ResourceDictionaries\LoginDialogRD.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Themes\OfficeBlack\System.Windows.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.ReportViewer.Wpf.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Input.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\Precios.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\LoginWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modals\Password.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ReportViewerWindow1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\SettingsView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ShellDockDesign.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ShellWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\App.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin_Content.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.cache
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.lref
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\App.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ncr\Views\Style\Style.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\LoginWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\MultiThreadedBusyIndicator\Style.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ReportViewerWindow1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\CommonStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Resources\TabControlStyles.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ShellDockDesign.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\ShellWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.g.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.Report1.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.RptOrden.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Remisiones.Views.RptRemision.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.Properties.Resources.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.Report1.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.GenerateResource.cache
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.exe.licenses
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CopyComplete
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MaterialDesignColors.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\IngresosView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\IngresosView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\OtrosCliente.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\Window1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\pdfview.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\OtrosCliente.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\Window1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\pdfview.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\UserControl1.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.OtrosIngresos.Views.RptIngresos.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Pagares\PagareView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Pagares\PagareView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Pagares\VerPagare.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Pagares\VerPagare.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Pagares.RptPagare.resources
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Precios\PreciosView.g.cs
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\obj\Debug\AZ\Precios\PreciosView.baml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\syncfusion.core.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Abril\Desktop\BIG.WPF 08-09-2018\GGGC.Admin\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Reports\SampleReport.trdp
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Resources\Images\App\DemoUser2.png
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Sign\ExternalDLL\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Admin.exe.config
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Admin.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ControlzEx.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\EntityFramework.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\FluentValidation.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Client.Contracts.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Client.Entities.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\GGGC.Client.Proxies.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MahApps.Metro.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MaterialDesignColors.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.Sinks.AzureTableStorage.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\syncfusion.core.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Data.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Spatial.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.Reporting.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\WebGrease.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\WPFSmartLibraryLight35.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\WPFToolkit.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ControlzEx.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\EntityFramework.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\FluentValidation.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MahApps.Metro.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MahApps.Metro.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\SendGrid.SmtpApi.dll.config
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\System.Spatial.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.Reporting.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\Telerik.ReportViewer.Wpf.xml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.csprojAssemblyReference.cache
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\Precios.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modals\Password.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\BreadCrumbNavigationStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\ButtonStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\ComboBoxStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\DataGridStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\GroupBoxStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\Icons.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\ListBoxStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\MenuStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\ScrollBarStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\Styles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\TextBoxStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\WindowStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\SettingsView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Sign\ResourceDictionaries\LoginDialogRD.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Themes\OfficeBlack\System.Windows.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.ReportViewer.Wpf.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Input.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Themes\OfficeBlack\Telerik.Windows.Controls.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\FieldDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\IngresosView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\OtrosCliente.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\pdfview.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\Window1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Pagares\PagareView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Pagares\VerPagare.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Precios\PreciosView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\UserControl1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\CambiarPassword.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\ExistenciasBase6.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\Precios.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesCLT.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\SucursalesLRG.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\TicketsAdmin.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Designs\TicketsUsers.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Views\TestView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\AdjustmentView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\DatabookView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\LRG\Databooks\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\EstimateView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\OrderView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\DashBoardView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\QueryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\WorkOrderView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\LoginWindow.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modals\Password.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\LRGView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ConsultarVale.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\GenerarValeView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosB7.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B7.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B4.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B3.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B2.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CV_B1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\CLTView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\LRGView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\CLTView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\FacturacionView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\LRGView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ReportViewerWindow1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\SettingsView.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ShellDockDesign.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ShellWindow.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Sign\Views\MainLogin.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ErrorList.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\Output.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\PropertiesPane.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ServerExplorer.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\SolutionExplorer.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Window1.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\App.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin_Content.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.cache
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin_MarkupCompile.lref
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\App.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Aplicacion\Erp\Modulos\Cxc\Ncr\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddCompra2.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\CompraDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\Compraview.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Compr\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\CodeProject.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\LlantasView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\Test.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Llantas\Views\UserControl2.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\EstadisticasView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NcrView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\QueryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ncr\Views\Style\Style.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\AddOrden.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Cliente.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Inventariovehiculo.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrdenView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\OrderCliente.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\Pendientes.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Ordenes\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\IngresosView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\OtrosCliente.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\pdfview.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\OtrosIngresos\Views\Window1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Pagares\PagareView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Pagares\VerPagare.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Precios\PreciosView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\AddressDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ClientePrime.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\pdfview.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\ProductoDialog.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemiCliente.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\RemisionView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\UserControl1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Userpdf.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\AZ\Remisiones\Views\Window1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Llantas\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Catalogs\Products\Classes\Servicios\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Compras\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Mobile\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\AR\Directorio\Tile.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\DashboardView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\EditView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\ReportsView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\SoView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\B20\SO\Views\StatisticsView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Inventory\Adjustments\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Estimates\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\Orders\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\MainView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ERP\Modules\Sales\WorkOrders\Views\NewView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\LoginWindow.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modals\Views\SettingsView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\AUD\Views\Cancelaciones\CancelacionesView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\BUENFIN\Vales\ValesView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamos.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\ComoVamosLRG.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\CXC\HistoryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Modules\Ektelesis\LRG\Views\History\HistoryView.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\MultiThreadedBusyIndicator\Style.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ReportViewerWindow1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\CommonStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Resources\TabControlStyles.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ShellDockDesign.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\ShellWindow.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ModalWindow.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\UI\Docking\Views\ToolBox.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\Window1.baml
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.g.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.Report1.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Ordenes.Views.RptOrden.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.OtrosIngresos.Views.RptIngresos.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Pagares.RptPagare.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.AZ.Remisiones.Views.RptRemision.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.Properties.Resources.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.Report1.resources
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.GenerateResource.cache
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.exe.licenses
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.csproj.CopyComplete
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.exe
+C:\Users\Abril\Desktop\SlnGG\GGGC.Admin\obj\Debug\GGGC.Admin.pdb

@@ -204,6 +204,13 @@
                     </telerik:RadPane>
                   
                 </telerik:RadPaneGroup>
+           
+            
+            
+            
+            
+            
+            
             </telerik:RadSplitContainer>
 
             <telerik:RadSplitContainer MaxWidth="679" InitialPosition="DockedRight">

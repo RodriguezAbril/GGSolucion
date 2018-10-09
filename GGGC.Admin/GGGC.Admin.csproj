@@ -149,6 +149,12 @@
       <HintPath>..\SolutionGG\packages\MahApps.Metro.1.6.4\lib\net45\MahApps.Metro.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\MaterialDesignColors.1.1.2\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.4.1.1101, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\MaterialDesignThemes.2.4.1.1101\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Azure.KeyVault.Core">
       <HintPath>..\SolutionGG\packages\Microsoft.Azure.KeyVault.Core.2.0.4\lib\net45\Microsoft.Azure.KeyVault.Core.dll</HintPath>
       <Private>True</Private>
@@ -205,9 +211,8 @@
       <HintPath>..\SolutionGG\packages\WindowsAzure.MobileServices.1.3.2\lib\net45\Microsoft.WindowsAzure.Mobile.Ext.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Microsoft.WindowsAzure.Storage">
-      <HintPath>..\SolutionGG\packages\WindowsAzure.Storage.9.2.0\lib\net45\Microsoft.WindowsAzure.Storage.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.WindowsAzure.Storage, Version=9.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\WindowsAzure.Storage.9.3.1\lib\net45\Microsoft.WindowsAzure.Storage.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\SolutionGG\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
@@ -233,10 +238,21 @@
       <HintPath>..\SolutionGG\packages\Serilog.Sinks.PeriodicBatching.2.1.0\lib\net45\Serilog.Sinks.PeriodicBatching.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Syncfusion.Compression.Base, Version=16.3451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\Syncfusion.Compression.Base.16.3.0.21\lib\net451\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="syncfusion.core">
+      <HintPath>..\..\..\Downloads\syncfusion.core.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=16.3451.0.21, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\Syncfusion.Licensing.16.3.0.21\lib\net451\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
     <Reference Include="Syncfusion.SfSkinManager.WPF, Version=15.2451.0.40, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
     <Reference Include="Syncfusion.Shared.WPF, Version=15.2451.0.40, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
     <Reference Include="Syncfusion.Tools.WPF, Version=15.2451.0.40, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
-    <Reference Include="Syncfusion.XlsIO.Base, Version=15.2451.0.40, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL" />
+    <Reference Include="Syncfusion.XlsIO.Base, Version=16.3451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\SolutionGG\packages\Syncfusion.XlsIO.Wpf.16.3.0.21\lib\net451\Syncfusion.XlsIO.Base.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -359,6 +375,10 @@
     <Reference Include="Telerik.Windows.Zip, Version=2017.2.428.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
     <Reference Include="UIAutomationProvider" />
     <Reference Include="UIAutomationTypes" />
+    <Reference Include="uQRCode, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\uQRCode.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <HintPath>..\SolutionGG\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
       <Private>True</Private>
@@ -500,8 +520,86 @@
     <Compile Include="AZ\Ordenes\Views\RptOrden.Designer.cs">
       <DependentUpon>RptOrden.cs</DependentUpon>
     </Compile>
+    <Compile Include="AZ\Ordenes\Views\TimbreFiscalDigital.cs" />
     <Compile Include="AZ\Ordenes\Views\UserControl1.xaml.cs">
       <DependentUpon>UserControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\ClienteItem.cs" />
+    <Compile Include="AZ\OtrosIngresos\Views\IngresosView.xaml.cs">
+      <DependentUpon>IngresosView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\OtrosCliente.xaml.cs">
+      <DependentUpon>OtrosCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\pdfview.xaml.cs">
+      <DependentUpon>pdfview.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\RptIngresos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\RptIngresos.Designer.cs">
+      <DependentUpon>RptIngresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\UserControl1.xaml.cs">
+      <DependentUpon>UserControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\OtrosIngresos\Views\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Pagares\Conversion.cs" />
+    <Compile Include="AZ\Pagares\PagareView.xaml.cs">
+      <DependentUpon>PagareView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Pagares\RptPagare.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AZ\Pagares\RptPagare.Designer.cs">
+      <DependentUpon>RptPagare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Pagares\VerPagare.xaml.cs">
+      <DependentUpon>VerPagare.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Precios\PreciosView.xaml.cs">
+      <DependentUpon>PreciosView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\AddressDialog.xaml.cs">
+      <DependentUpon>AddressDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\BillingInformation.cs" />
+    <Compile Include="AZ\Remisiones\Views\ClienteItem.cs" />
+    <Compile Include="AZ\Remisiones\Views\ClientePrime.xaml.cs">
+      <DependentUpon>ClientePrime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\GlobalId.cs" />
+    <Compile Include="AZ\Remisiones\Views\pdfview.xaml.cs">
+      <DependentUpon>pdfview.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\ProductList.cs" />
+    <Compile Include="AZ\Remisiones\Views\ProductoDialog.xaml.cs">
+      <DependentUpon>ProductoDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\RemiCliente.xaml.cs">
+      <DependentUpon>RemiCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\RemiItem.cs" />
+    <Compile Include="AZ\Remisiones\Views\RemisionView.xaml.cs">
+      <DependentUpon>RemisionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\RptRemision.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\RptRemision.Designer.cs">
+      <DependentUpon>RptRemision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\TimbreFiscalDigital.cs" />
+    <Compile Include="AZ\Remisiones\Views\UserControl1.xaml.cs">
+      <DependentUpon>UserControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\Userpdf.xaml.cs">
+      <DependentUpon>Userpdf.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AZ\Remisiones\Views\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
     <Compile Include="BooleanOrConverter.cs" />
     <Compile Include="clsGlobalcs.cs" />
@@ -997,6 +1095,74 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="AZ\OtrosIngresos\Views\IngresosView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\OtrosIngresos\Views\OtrosCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\OtrosIngresos\Views\pdfview.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\OtrosIngresos\Views\UserControl1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\OtrosIngresos\Views\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Pagares\PagareView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Pagares\VerPagare.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Precios\PreciosView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\AddressDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\ClientePrime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\pdfview.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\ProductoDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\RemiCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\RemisionView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\UserControl1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\Userpdf.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AZ\Remisiones\Views\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ERP\Catalogs\Products\Classes\Llantas\Views\MainView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1378,24 +1544,24 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Themes\OfficeBlack\System.Windows.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Themes\OfficeBlack\Telerik.ReportViewer.Wpf.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Themes\OfficeBlack\Telerik.Windows.Controls.Input.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Themes\OfficeBlack\Telerik.Windows.Controls.Navigation.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Themes\OfficeBlack\Telerik.Windows.Controls.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="UI\Docking\Views\ErrorList.xaml">
       <SubType>Designer</SubType>
@@ -1447,6 +1613,15 @@
     <EmbeddedResource Include="AZ\Ordenes\Views\RptOrden.resx">
       <DependentUpon>RptOrden.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AZ\OtrosIngresos\Views\RptIngresos.resx">
+      <DependentUpon>RptIngresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AZ\Pagares\RptPagare.resx">
+      <DependentUpon>RptPagare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AZ\Remisiones\Views\RptRemision.resx">
+      <DependentUpon>RptRemision.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -1478,6 +1653,16 @@
     <Resource Include="AZ\Compr\Views\Edit.png" />
     <Resource Include="AZ\Compr\Views\Edit.jpg" />
     <Resource Include="AZ\Compr\Views\lp.png" />
+    <Resource Include="AZ\Remisiones\Views\Edit.jpg" />
+    <Resource Include="AZ\Remisiones\Views\lapiz.png" />
+    <Resource Include="AZ\Remisiones\Views\addblue.png" />
+    <Resource Include="AZ\Remisiones\Views\em.png" />
+    <Resource Include="AZ\Remisiones\Views\xx.png" />
+    <Resource Include="AZ\Remisiones\Views\x.png" />
+    <Resource Include="AZ\Remisiones\Views\cc.png" />
+    <Resource Include="AZ\Ordenes\Views\verde.png" />
+    <Resource Include="AZ\Remisiones\Views\verde.png" />
+    <Resource Include="AZ\Remisiones\Views\str.png" />
     <Content Include="GGGC.Client.Proxies.dll" />
     <Content Include="Reports\SampleReport.trdp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -1746,16 +1931,6 @@
       <IncludeHash>True</IncludeHash>
       <FileType>Assembly</FileType>
     </PublishFile>
-    <PublishFile Include="Syncfusion.Compression.Base">
-      <Visible>False</Visible>
-      <Group>
-      </Group>
-      <TargetPath>
-      </TargetPath>
-      <PublishState>Include</PublishState>
-      <IncludeHash>True</IncludeHash>
-      <FileType>Assembly</FileType>
-    </PublishFile>
     <PublishFile Include="Syncfusion.DocIO.Base">
       <Visible>False</Visible>
       <Group>
@@ -1787,16 +1962,6 @@
       <FileType>Assembly</FileType>
     </PublishFile>
     <PublishFile Include="Syncfusion.Shared.Wpf">
-      <Visible>False</Visible>
-      <Group>
-      </Group>
-      <TargetPath>
-      </TargetPath>
-      <PublishState>Include</PublishState>
-      <IncludeHash>True</IncludeHash>
-      <FileType>Assembly</FileType>
-    </PublishFile>
-    <PublishFile Include="Syncfusion.XlsIO.Base">
       <Visible>False</Visible>
       <Group>
       </Group>

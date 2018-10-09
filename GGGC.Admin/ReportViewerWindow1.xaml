@@ -4,7 +4,7 @@
     xmlns:local="clr-namespace:GGGC.Admin"
     xmlns:tr="http://schemas.telerik.com/wpf"
     xmlns:telerikReporting="clr-namespace:Telerik.Reporting;assembly=Telerik.Reporting"
-    Title="Report Viewer Window">
+    Title="Report Viewer Window" Height="605.395" >
 
     <Grid x:Name="LayoutRoot">
         <Grid Margin="20" >
